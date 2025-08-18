@@ -1,0 +1,402 @@
+XC7Z020-2CLG400I, ,,,
+Pin,name,unit,Type,side
+J9, VCCADC_0,Program,power_in,left
+K6, VCCO_0,Program,power_in,left
+K9, VP_0,Program,power_in,left
+L9, VREFP_0,Program,power_in,left
+J10,GNDADC_0,Program,power_in,left
+F11,VCCBATT_0,Program,power_in,left
+L10,VN_0,Program,power_in,left
+K10,VREFN_0,Program,power_in,left
+M6, CFGBVS_0,Program,bidirectional,right
+M9, DXP_0,Program,bidirectional,right
+L6, PROGRAM_B_0,Program,bidirectional,right
+T6, RSVDVCC1,Program,bidirectional,left
+R6, RSVDVCC2,Program,bidirectional,left
+N6, RSVDVCC3,Program,bidirectional,left
+F9, TCK_0,Program,bidirectional,right
+G6, TDI_0,Program,bidirectional,right
+F6, TDO_0,Program,bidirectional,right
+J6, TMS_0,Program,bidirectional,right
+R11,DONE_0,Program,bidirectional,right
+M10,DXN_0,Program,bidirectional,right
+R10,INIT_B_0,Program,bidirectional,right
+F10,RSVDGND,Program,bidirectional,left
+V5, IO_L6N_T0_VREF_13,Bank 13,bidirectional,right
+U7, IO_L11P_T1_SRCC_13,Bank 13,bidirectional,right
+V7, IO_L11N_T1_SRCC_13,Bank 13,bidirectional,right
+T9, IO_L12P_T1_MRCC_13,Bank 13,bidirectional,right
+U10,IO_L12N_T1_MRCC_13,Bank 13,bidirectional,right
+Y7, IO_L13P_T2_MRCC_13,Bank 13,bidirectional,right
+Y6, IO_L13N_T2_MRCC_13,Bank 13,bidirectional,right
+Y9, IO_L14P_T2_SRCC_13,Bank 13,bidirectional,right
+Y8, IO_L14N_T2_SRCC_13,Bank 13,bidirectional,right
+V8, IO_L15P_T2_DQS_13,Bank 13,bidirectional,right
+W8, IO_L15N_T2_DQS_13,Bank 13,bidirectional,right
+W10,IO_L16P_T2_13,Bank 13,bidirectional,right
+W9, IO_L16N_T2_13,Bank 13,bidirectional,right
+U9, IO_L17P_T2_13,Bank 13,bidirectional,right
+U8, IO_L17N_T2_13,Bank 13,bidirectional,right
+W11,IO_L18P_T2_13,Bank 13,bidirectional,right
+Y11,IO_L18N_T2_13,Bank 13,bidirectional,right
+T5, IO_L19P_T3_13,Bank 13,bidirectional,right
+U5, IO_L19N_T3_VREF_13,Bank 13,bidirectional,right
+Y12,IO_L20P_T3_13,Bank 13,bidirectional,right
+Y13,IO_L20N_T3_13,Bank 13,bidirectional,right
+V11,IO_L21P_T3_DQS_13,Bank 13,bidirectional,right
+V10,IO_L21N_T3_DQS_13,Bank 13,bidirectional,right
+V6, IO_L22P_T3_13,Bank 13,bidirectional,right
+W6, IO_L22N_T3_13,Bank 13,bidirectional,right
+T8, VCCO_13,Bank 13,power_in,left
+U11,VCCO_13,Bank 13,power_in,left
+W7, VCCO_13,Bank 13,power_in,left
+Y10,VCCO_13,Bank 13,power_in,left
+R19,IO_0_34,Bank 34,bidirectional,right
+T11,IO_L1P_T0_34,Bank 34,bidirectional,right
+T10,IO_L1N_T0_34,Bank 34,bidirectional,right
+T12,IO_L2P_T0_34,Bank 34,bidirectional,right
+U12,IO_L2N_T0_34,Bank 34,bidirectional,right
+U13,IO_L3P_T0_DQS_PUDC_B_34,Bank 34,bidirectional,right
+V13,IO_L3N_T0_DQS_34,Bank 34,bidirectional,right
+V12,IO_L4P_T0_34,Bank 34,bidirectional,right
+W13,IO_L4N_T0_34,Bank 34,bidirectional,right
+T14,IO_L5P_T0_34,Bank 34,bidirectional,right
+T15,IO_L5N_T0_34,Bank 34,bidirectional,right
+P14,IO_L6P_T0_34,Bank 34,bidirectional,right
+R14,IO_L6N_T0_VREF_34,Bank 34,bidirectional,right
+Y16,IO_L7P_T1_34,Bank 34,bidirectional,right
+Y17,IO_L7N_T1_34,Bank 34,bidirectional,right
+W14,IO_L8P_T1_34,Bank 34,bidirectional,right
+Y14,IO_L8N_T1_34,Bank 34,bidirectional,right
+T16,IO_L9P_T1_DQS_34,Bank 34,bidirectional,right
+U17,IO_L9N_T1_DQS_34,Bank 34,bidirectional,right
+V15,IO_L10P_T1_34,Bank 34,bidirectional,right
+W15,IO_L10N_T1_34,Bank 34,bidirectional,right
+U14,IO_L11P_T1_SRCC_34,Bank 34,bidirectional,right
+U15,IO_L11N_T1_SRCC_34,Bank 34,bidirectional,right
+U18,IO_L12P_T1_MRCC_34,Bank 34,bidirectional,right
+U19,IO_L12N_T1_MRCC_34,Bank 34,bidirectional,right
+N18,IO_L13P_T2_MRCC_34,Bank 34,bidirectional,right
+P19,IO_L13N_T2_MRCC_34,Bank 34,bidirectional,right
+N20,IO_L14P_T2_SRCC_34,Bank 34,bidirectional,right
+P20,IO_L14N_T2_SRCC_34,Bank 34,bidirectional,right
+T20,IO_L15P_T2_DQS_34,Bank 34,bidirectional,right
+U20,IO_L15N_T2_DQS_34,Bank 34,bidirectional,right
+V20,IO_L16P_T2_34,Bank 34,bidirectional,right
+W20,IO_L16N_T2_34,Bank 34,bidirectional,right
+Y18,IO_L17P_T2_34,Bank 34,bidirectional,right
+Y19,IO_L17N_T2_34,Bank 34,bidirectional,right
+V16,IO_L18P_T2_34,Bank 34,bidirectional,right
+W16,IO_L18N_T2_34,Bank 34,bidirectional,right
+R16,IO_L19P_T3_34,Bank 34,bidirectional,right
+R17,IO_L19N_T3_VREF_34,Bank 34,bidirectional,right
+T17,IO_L20P_T3_34,Bank 34,bidirectional,right
+R18,IO_L20N_T3_34,Bank 34,bidirectional,right
+V17,IO_L21P_T3_DQS_34,Bank 34,bidirectional,right
+V18,IO_L21N_T3_DQS_34,Bank 34,bidirectional,right
+W18,IO_L22P_T3_34,Bank 34,bidirectional,right
+W19,IO_L22N_T3_34,Bank 34,bidirectional,right
+N17,IO_L23P_T3_34,Bank 34,bidirectional,right
+P18,IO_L23N_T3_34,Bank 34,bidirectional,right
+P15,IO_L24P_T3_34,Bank 34,bidirectional,right
+P16,IO_L24N_T3_34,Bank 34,bidirectional,right
+T19,IO_25_34,Bank 34,bidirectional,right
+N19,VCCO_34,Bank 34,power_in,left
+R15,VCCO_34,Bank 34,power_in,left
+T18,VCCO_34,Bank 34,power_in,left
+V14,VCCO_34,Bank 34,power_in,left
+W17,VCCO_34,Bank 34,power_in,left
+Y20,VCCO_34,Bank 34,power_in,left
+G14,IO_0_35,Bank 35,bidirectional,right
+C20,IO_L1P_T0_AD0P_35,Bank 35,bidirectional,right
+B20,IO_L1N_T0_AD0N_35,Bank 35,bidirectional,right
+B19,IO_L2P_T0_AD8P_35,Bank 35,bidirectional,right
+A20,IO_L2N_T0_AD8N_35,Bank 35,bidirectional,right
+E17,IO_L3P_T0_DQS_AD1P_35,Bank 35,bidirectional,right
+D18,IO_L3N_T0_DQS_AD1N_35,Bank 35,bidirectional,right
+D19,IO_L4P_T0_35,Bank 35,bidirectional,right
+D20,IO_L4N_T0_35,Bank 35,bidirectional,right
+E18,IO_L5P_T0_AD9P_35,Bank 35,bidirectional,right
+E19,IO_L5N_T0_AD9N_35,Bank 35,bidirectional,right
+F16,IO_L6P_T0_35,Bank 35,bidirectional,right
+F17,IO_L6N_T0_VREF_35,Bank 35,bidirectional,right
+M19,IO_L7P_T1_AD2P_35,Bank 35,bidirectional,right
+M20,IO_L7N_T1_AD2N_35,Bank 35,bidirectional,right
+M17,IO_L8P_T1_AD10P_35,Bank 35,bidirectional,right
+M18,IO_L8N_T1_AD10N_35,Bank 35,bidirectional,right
+L19,IO_L9P_T1_DQS_AD3P_35,Bank 35,bidirectional,right
+L20,IO_L9N_T1_DQS_AD3N_35,Bank 35,bidirectional,right
+K19,IO_L10P_T1_AD11P_35,Bank 35,bidirectional,right
+J19,IO_L10N_T1_AD11N_35,Bank 35,bidirectional,right
+L16,IO_L11P_T1_SRCC_35,Bank 35,bidirectional,right
+L17,IO_L11N_T1_SRCC_35,Bank 35,bidirectional,right
+K17,IO_L12P_T1_MRCC_35,Bank 35,bidirectional,right
+K18,IO_L12N_T1_MRCC_35,Bank 35,bidirectional,right
+H16,IO_L13P_T2_MRCC_35,Bank 35,bidirectional,right
+H17,IO_L13N_T2_MRCC_35,Bank 35,bidirectional,right
+J18,IO_L14P_T2_AD4P_SRCC_35,Bank 35,bidirectional,right
+H18,IO_L14N_T2_AD4N_SRCC_35,Bank 35,bidirectional,right
+F19,IO_L15P_T2_DQS_AD12P_35,Bank 35,bidirectional,right
+F20,IO_L15N_T2_DQS_AD12N_35,Bank 35,bidirectional,right
+G17,IO_L16P_T2_35,Bank 35,bidirectional,right
+G18,IO_L16N_T2_35,Bank 35,bidirectional,right
+J20,IO_L17P_T2_AD5P_35,Bank 35,bidirectional,right
+H20,IO_L17N_T2_AD5N_35,Bank 35,bidirectional,right
+G19,IO_L18P_T2_AD13P_35,Bank 35,bidirectional,right
+G20,IO_L18N_T2_AD13N_35,Bank 35,bidirectional,right
+H15,IO_L19P_T3_35,Bank 35,bidirectional,right
+G15,IO_L19N_T3_VREF_35,Bank 35,bidirectional,right
+K14,IO_L20P_T3_AD6P_35,Bank 35,bidirectional,right
+J14,IO_L20N_T3_AD6N_35,Bank 35,bidirectional,right
+N15,IO_L21P_T3_DQS_AD14P_35,Bank 35,bidirectional,right
+N16,IO_L21N_T3_DQS_AD14N_35,Bank 35,bidirectional,right
+L14,IO_L22P_T3_AD7P_35,Bank 35,bidirectional,right
+L15,IO_L22N_T3_AD7N_35,Bank 35,bidirectional,right
+M14,IO_L23P_T3_35,Bank 35,bidirectional,right
+M15,IO_L23N_T3_35,Bank 35,bidirectional,right
+K16,IO_L24P_T3_AD15P_35,Bank 35,bidirectional,right
+J16,IO_L24N_T3_AD15N_35,Bank 35,bidirectional,right
+J15,IO_25_35,Bank 35,bidirectional,right
+C19,VCCO_35,Bank 35,power_in,left
+F18,VCCO_35,Bank 35,power_in,left
+H14,VCCO_35,Bank 35,power_in,left
+J17,VCCO_35,Bank 35,power_in,left
+K20,VCCO_35,Bank 35,power_in,left
+M16,VCCO_35,Bank 35,power_in,left
+E7, PS_CLK_500,Bank 500,bidirectional,right
+C7, PS_POR_B_500,Bank 500,bidirectional,right
+C8, PS_MIO15_500,Bank 500,bidirectional,right
+C5, PS_MIO14_500,Bank 500,bidirectional,right
+E8, PS_MIO13_500,Bank 500,bidirectional,right
+D9, PS_MIO12_500,Bank 500,bidirectional,right
+C6, PS_MIO11_500,Bank 500,bidirectional,right
+E9, PS_MIO10_500,Bank 500,bidirectional,right
+B5, PS_MIO9_500,Bank 500,bidirectional,right
+D5, PS_MIO8_500,Bank 500,bidirectional,right
+D8, PS_MIO7_500,Bank 500,bidirectional,right
+A5, PS_MIO6_500,Bank 500,bidirectional,right
+A6, PS_MIO5_500,Bank 500,bidirectional,right
+B7, PS_MIO4_500,Bank 500,bidirectional,right
+D6, PS_MIO3_500,Bank 500,bidirectional,right
+B8, PS_MIO2_500,Bank 500,bidirectional,right
+A7, PS_MIO1_500,Bank 500,bidirectional,right
+E6, PS_MIO0_500,Bank 500,bidirectional,right
+B6, VCCO_MIO0_500,Bank 500,power_in,left
+D7, VCCO_MIO0_500,Bank 500,power_in,left
+E11,PS_MIO_VREF_501,Bank 501,power_in,left
+E14,PS_MIO17_501,Bank 501,bidirectional,right
+D10,PS_MIO19_501,Bank 501,bidirectional,right
+F14,PS_MIO21_501,Bank 501,bidirectional,right
+D11,PS_MIO23_501,Bank 501,bidirectional,right
+F15,PS_MIO25_501,Bank 501,bidirectional,right
+D13,PS_MIO27_501,Bank 501,bidirectional,right
+C13,PS_MIO29_501,Bank 501,bidirectional,right
+E16,PS_MIO31_501,Bank 501,bidirectional,right
+D15,PS_MIO33_501,Bank 501,bidirectional,right
+F12,PS_MIO35_501,Bank 501,bidirectional,right
+E13,PS_MIO38_501,Bank 501,bidirectional,right
+D14,PS_MIO40_501,Bank 501,bidirectional,right
+E12,PS_MIO42_501,Bank 501,bidirectional,right
+F13,PS_MIO44_501,Bank 501,bidirectional,right
+D16,PS_MIO46_501,Bank 501,bidirectional,right
+B12,PS_MIO48_501,Bank 501,bidirectional,right
+B13,PS_MIO50_501,Bank 501,bidirectional,right
+C10,PS_MIO52_501,Bank 501,bidirectional,right
+B10,PS_SRST_B_501,Bank 501,bidirectional,right
+A19,PS_MIO16_501,Bank 501,bidirectional,right
+B18,PS_MIO18_501,Bank 501,bidirectional,right
+A17,PS_MIO20_501,Bank 501,bidirectional,right
+B17,PS_MIO22_501,Bank 501,bidirectional,right
+A16,PS_MIO24_501,Bank 501,bidirectional,right
+A15,PS_MIO26_501,Bank 501,bidirectional,right
+C16,PS_MIO28_501,Bank 501,bidirectional,right
+C15,PS_MIO30_501,Bank 501,bidirectional,right
+A14,PS_MIO32_501,Bank 501,bidirectional,right
+A12,PS_MIO34_501,Bank 501,bidirectional,right
+A11,PS_MIO36_501,Bank 501,bidirectional,right
+A10,PS_MIO37_501,Bank 501,bidirectional,right
+C18,PS_MIO39_501,Bank 501,bidirectional,right
+C17,PS_MIO41_501,Bank 501,bidirectional,right
+A9, PS_MIO43_501,Bank 501,bidirectional,right
+B15,PS_MIO45_501,Bank 501,bidirectional,right
+B14,PS_MIO47_501,Bank 501,bidirectional,right
+C12,PS_MIO49_501,Bank 501,bidirectional,right
+B9, PS_MIO51_501,Bank 501,bidirectional,right
+C11,PS_MIO53_501,Bank 501,bidirectional,right
+A13,VCCO_MIO1_501,Bank 501,power_in,left
+B16,VCCO_MIO1_501,Bank 501,power_in,left
+D12,VCCO_MIO1_501,Bank 501,power_in,left
+E15,VCCO_MIO1_501,Bank 501,power_in,left
+B4, PS_DDR_DRST_B_502,Bank 502,bidirectional,right
+C3, PS_DDR_DQ0_502,Bank 502,bidirectional,right
+B3, PS_DDR_DQ1_502,Bank 502,bidirectional,right
+A2, PS_DDR_DQ2_502,Bank 502,bidirectional,right
+A4, PS_DDR_DQ3_502,Bank 502,bidirectional,right
+A1, PS_DDR_DM0_502,Bank 502,bidirectional,right
+C2, PS_DDR_DQS_P0_502,Bank 502,bidirectional,right
+B2, PS_DDR_DQS_N0_502,Bank 502,bidirectional,right
+D3, PS_DDR_DQ4_502,Bank 502,bidirectional,right
+D1, PS_DDR_DQ5_502,Bank 502,bidirectional,right
+C1, PS_DDR_DQ6_502,Bank 502,bidirectional,right
+E1, PS_DDR_DQ7_502,Bank 502,bidirectional,right
+E2, PS_DDR_DQ8_502,Bank 502,bidirectional,right
+E3, PS_DDR_DQ9_502,Bank 502,bidirectional,right
+G3, PS_DDR_DQ10_502,Bank 502,bidirectional,right
+H3, PS_DDR_DQ11_502,Bank 502,bidirectional,right
+F1, PS_DDR_DM1_502,Bank 502,bidirectional,right
+G2, PS_DDR_DQS_P1_502,Bank 502,bidirectional,right
+F2, PS_DDR_DQS_N1_502,Bank 502,bidirectional,right
+J3, PS_DDR_DQ12_502,Bank 502,bidirectional,right
+H2, PS_DDR_DQ13_502,Bank 502,bidirectional,right
+H1, PS_DDR_DQ14_502,Bank 502,bidirectional,right
+J1, PS_DDR_DQ15_502,Bank 502,bidirectional,right
+F4, PS_DDR_A14_502,Bank 502,bidirectional,left
+D4, PS_DDR_A13_502,Bank 502,bidirectional,left
+E4, PS_DDR_A12_502,Bank 502,bidirectional,left
+G4, PS_DDR_A11_502,Bank 502,bidirectional,left
+F5, PS_DDR_A10_502,Bank 502,bidirectional,left
+J4, PS_DDR_A9_502,Bank 502,bidirectional,left
+K1, PS_DDR_A8_502,Bank 502,bidirectional,left
+K4, PS_DDR_A7_502,Bank 502,bidirectional,left
+L4, PS_DDR_A6_502,Bank 502,bidirectional,left
+L1, PS_DDR_A5_502,Bank 502,bidirectional,left
+M4, PS_DDR_A4_502,Bank 502,bidirectional,left
+K3, PS_DDR_A3_502,Bank 502,bidirectional,left
+G5, PS_DDR_VRN_502,Bank 502,bidirectional,left
+H5, PS_DDR_VRP_502,Bank 502,bidirectional,left
+L2, PS_DDR_CKP_502,Bank 502,bidirectional,left
+M2, PS_DDR_CKN_502,Bank 502,bidirectional,left
+M3, PS_DDR_A2_502,Bank 502,bidirectional,left
+K2, PS_DDR_A1_502,Bank 502,bidirectional,left
+N2, PS_DDR_A0_502,Bank 502,bidirectional,left
+J5, PS_DDR_BA2_502,Bank 502,bidirectional,left
+R4, PS_DDR_BA1_502,Bank 502,bidirectional,left
+L5, PS_DDR_BA0_502,Bank 502,bidirectional,left
+N5, PS_DDR_ODT_502,Bank 502,bidirectional,left
+N1, PS_DDR_CS_B_502,Bank 502,bidirectional,left
+N3, PS_DDR_CKE_502,Bank 502,bidirectional,left
+M5, PS_DDR_WE_B_502,Bank 502,bidirectional,left
+P5, PS_DDR_CAS_B_502,Bank 502,bidirectional,left
+P4, PS_DDR_RAS_B_502,Bank 502,bidirectional,left
+P1, PS_DDR_DQ16_502,Bank 502,bidirectional,right
+P3, PS_DDR_DQ17_502,Bank 502,bidirectional,right
+R3, PS_DDR_DQ18_502,Bank 502,bidirectional,right
+R1, PS_DDR_DQ19_502,Bank 502,bidirectional,right
+T1, PS_DDR_DM2_502,Bank 502,bidirectional,right
+R2, PS_DDR_DQS_P2_502,Bank 502,bidirectional,right
+T2, PS_DDR_DQS_N2_502,Bank 502,bidirectional,right
+T4, PS_DDR_DQ20_502,Bank 502,bidirectional,right
+U4, PS_DDR_DQ21_502,Bank 502,bidirectional,right
+U2, PS_DDR_DQ22_502,Bank 502,bidirectional,right
+U3, PS_DDR_DQ23_502,Bank 502,bidirectional,right
+V1, PS_DDR_DQ24_502,Bank 502,bidirectional,right
+Y3, PS_DDR_DQ25_502,Bank 502,bidirectional,right
+W1, PS_DDR_DQ26_502,Bank 502,bidirectional,right
+Y4, PS_DDR_DQ27_502,Bank 502,bidirectional,right
+Y1, PS_DDR_DM3_502,Bank 502,bidirectional,right
+W5, PS_DDR_DQS_P3_502,Bank 502,bidirectional,right
+W4, PS_DDR_DQS_N3_502,Bank 502,bidirectional,right
+Y2, PS_DDR_DQ28_502,Bank 502,bidirectional,right
+W3, PS_DDR_DQ29_502,Bank 502,bidirectional,right
+V2, PS_DDR_DQ30_502,Bank 502,bidirectional,right
+V3, PS_DDR_DQ31_502,Bank 502,bidirectional,right
+A3, VCCO_DDR_502,Bank 502,power_in,left
+D2, VCCO_DDR_502,Bank 502,power_in,left
+E5, VCCO_DDR_502,Bank 502,power_in,left
+G1, VCCO_DDR_502,Bank 502,power_in,left
+H4, VCCO_DDR_502,Bank 502,power_in,left
+L3, VCCO_DDR_502,Bank 502,power_in,left
+P2, VCCO_DDR_502,Bank 502,power_in,left
+R5, VCCO_DDR_502,Bank 502,power_in,left
+U1, VCCO_DDR_502,Bank 502,power_in,left
+V4, VCCO_DDR_502,Bank 502,power_in,left
+H6, PS_DDR_VREF0_502,Bank 502,power_in,left
+P6, PS_DDR_VREF1_502,Bank 502,power_in,left
+A8, GND,PWR,power_in,right
+A18,GND,PWR,power_in,right
+B1, GND,PWR,power_in,right
+B11,GND,PWR,power_in,right
+C4, GND,PWR,power_in,right
+C14,GND,PWR,power_in,right
+K11,GND,PWR,power_in,right
+D17,GND,PWR,power_in,right
+E10,GND,PWR,power_in,right
+E20,GND,PWR,power_in,right
+F3, GND,PWR,power_in,right
+F7, GND,PWR,power_in,right
+G10,GND,PWR,power_in,right
+G12,GND,PWR,power_in,right
+G16,GND,PWR,power_in,right
+H7, GND,PWR,power_in,right
+H9, GND,PWR,power_in,right
+H11,GND,PWR,power_in,right
+H13,GND,PWR,power_in,right
+H19,GND,PWR,power_in,right
+J2, GND,PWR,power_in,right
+J8, GND,PWR,power_in,right
+J12,GND,PWR,power_in,right
+K5, GND,PWR,power_in,right
+K7, GND,PWR,power_in,right
+C9, GND,PWR,power_in,right
+K13,GND,PWR,power_in,right
+K15,GND,PWR,power_in,right
+L8, GND,PWR,power_in,right
+L12,GND,PWR,power_in,right
+L18,GND,PWR,power_in,right
+M1, GND,PWR,power_in,right
+M7, GND,PWR,power_in,right
+M11,GND,PWR,power_in,right
+M13,GND,PWR,power_in,right
+N4, GND,PWR,power_in,right
+N8, GND,PWR,power_in,right
+N10,GND,PWR,power_in,right
+N12,GND,PWR,power_in,right
+N14,GND,PWR,power_in,right
+P7, GND,PWR,power_in,right
+P9, GND,PWR,power_in,right
+P11,GND,PWR,power_in,right
+P13,GND,PWR,power_in,right
+P17,GND,PWR,power_in,right
+R8, GND,PWR,power_in,right
+R12,GND,PWR,power_in,right
+R20,GND,PWR,power_in,right
+T3, GND,PWR,power_in,right
+T7, GND,PWR,power_in,right
+T13,GND,PWR,power_in,right
+U6, GND,PWR,power_in,right
+U16,GND,PWR,power_in,right
+V9, GND,PWR,power_in,right
+V19,GND,PWR,power_in,right
+W2, GND,PWR,power_in,right
+W12,GND,PWR,power_in,right
+Y5, GND,PWR,power_in,right
+Y15,GND,PWR,power_in,right
+G13,VCCINT,PWR,power_in,left
+H12,VCCINT,PWR,power_in,left
+J13,VCCINT,PWR,power_in,left
+K12,VCCINT,PWR,power_in,left
+L13,VCCINT,PWR,power_in,left
+M12,VCCINT,PWR,power_in,left
+N13,VCCINT,PWR,power_in,left
+P12,VCCINT,PWR,power_in,left
+R13,VCCINT,PWR,power_in,left
+J11,VCCAUX,PWR,power_in,left
+L11,VCCAUX,PWR,power_in,left
+N9, VCCAUX,PWR,power_in,left
+P10,VCCAUX,PWR,power_in,left
+R9, VCCAUX,PWR,power_in,left
+N11,VCCAUX,PWR,power_in,left
+G11,VCCBRAM,PWR,power_in,left
+H10,VCCBRAM,PWR,power_in,left
+G8, VCCPLL,PWR,power_in,left
+G9, VCCPAUX,PWR,power_in,left
+F8, VCCPAUX,PWR,power_in,left
+H8, VCCPAUX,PWR,power_in,left
+K8, VCCPAUX,PWR,power_in,left
+M8, VCCPAUX,PWR,power_in,left
+G7, VCCPINT,PWR,power_in,left
+J7, VCCPINT,PWR,power_in,left
+L7, VCCPINT,PWR,power_in,left
+N7, VCCPINT,PWR,power_in,left
+P8, VCCPINT,PWR,power_in,left
+R7, VCCPINT,PWR,power_in,left
