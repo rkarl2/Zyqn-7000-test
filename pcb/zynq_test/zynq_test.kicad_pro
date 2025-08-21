@@ -477,7 +477,7 @@
         "name": "ETH0",
         "pcb_color": "rgb(0, 194, 0)",
         "priority": 4,
-        "schematic_color": "rgb(0, 194, 0)"
+        "schematic_color": "rgb(72, 0, 72)"
       },
       {
         "name": "MIO",
@@ -508,7 +508,7 @@
         "name": "USB0",
         "pcb_color": "rgb(255, 0, 255)",
         "priority": 5,
-        "schematic_color": "rgb(255, 0, 255)"
+        "schematic_color": "rgb(0, 132, 132)"
       }
     ],
     "meta": {
@@ -519,27 +519,27 @@
     "netclass_patterns": [
       {
         "netclass": "USB0",
-        "pattern": "USB0*"
+        "pattern": "*USB0*"
       },
       {
         "netclass": "ETH0",
-        "pattern": "ETH0*"
+        "pattern": "*ETH0*"
       },
       {
         "netclass": "SD0",
-        "pattern": "SD0*"
+        "pattern": "*SD0*"
       },
       {
         "netclass": "QSPI0",
-        "pattern": "QSPI0*"
+        "pattern": "*QSPI0*"
       },
       {
         "netclass": "MIO",
-        "pattern": "MIO*"
+        "pattern": "*MIO*"
       },
       {
         "netclass": "UART0",
-        "pattern": "UART0*"
+        "pattern": "*UART0*"
       }
     ]
   },
