@@ -5,8 +5,48 @@
 	(uuid "0637578d-4ce5-4d31-b973-2de977269ea5")
 	(paper "A4")
 	(lib_symbols)
+	(bus
+		(pts
+			(xy 172.72 77.47) (xy 149.86 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "466f1589-f694-4bcc-9f20-28aa3139a29d")
+	)
+	(bus
+		(pts
+			(xy 172.72 133.35) (xy 172.72 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "943e0b84-5d41-4605-92e4-8db34e9550e7")
+	)
+	(bus
+		(pts
+			(xy 149.86 138.43) (xy 209.55 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a00e6ad7-37be-4bc8-abdf-1792fbe1cd27")
+	)
+	(bus
+		(pts
+			(xy 209.55 133.35) (xy 172.72 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc63f301-e920-4fab-93ea-bb4471e66232")
+	)
 	(sheet
-		(at 105.41 148.59)
+		(at 105.41 129.54)
 		(size 44.45 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20,8 +60,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "571469d6-3394-40d8-b17a-7dc7211f29f5")
-		(property "Sheetname" "ZynqPWR+Prog"
-			(at 106.426 153.162 0)
+		(property "Sheetname" "ZynqPWR+JTAG"
+			(at 106.426 134.112 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -30,12 +70,42 @@
 			)
 		)
 		(property "Sheetfile" "ZynqPWR+Config.kicad_sch"
-			(at 105.41 179.6546 0)
+			(at 105.41 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "JTAG.Z" bidirectional
+			(at 149.86 138.43 0)
+			(uuid "0a848e92-5fd7-453a-a985-c36bd3bba89b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWR_ON_RST" input
+			(at 105.41 138.43 180)
+			(uuid "1cc1d82f-b171-46c5-94b6-45d1ea8f7f5f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XADC_0" input
+			(at 105.41 147.32 180)
+			(uuid "8dc61f8e-c984-47a5-95e7-fd12120360f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -47,7 +117,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 109.22)
+		(at 105.41 90.17)
 		(size 44.45 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -62,7 +132,7 @@
 		)
 		(uuid "920e1ce4-7460-4edb-8921-03ce78d5c203")
 		(property "Sheetname" "ZynqDram"
-			(at 106.172 114.046 0)
+			(at 106.172 94.996 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -71,7 +141,7 @@
 			)
 		)
 		(property "Sheetfile" "ZynqDram.kicad_sch"
-			(at 105.41 144.0946 0)
+			(at 105.41 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88,7 +158,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 34.29)
+		(at 105.41 15.24)
 		(size 44.45 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -102,8 +172,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "c459e1b5-5454-4a76-b5d2-e90b165c8789")
-		(property "Sheetname" "ZynqBus"
-			(at 106.426 38.354 0)
+		(property "Sheetname" "Zynq FPGA"
+			(at 106.426 19.304 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -112,7 +182,7 @@
 			)
 		)
 		(property "Sheetfile" "ZynqBus.kicad_sch"
-			(at 105.41 59.0046 0)
+			(at 105.41 39.9546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -129,7 +199,69 @@
 		)
 	)
 	(sheet
-		(at 105.41 63.5)
+		(at 209.55 127)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbe65b94-50f2-402b-8037-053235586035")
+		(property "Sheetname" "Programmer"
+			(at 209.55 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "programmer.kicad_sch"
+			(at 209.55 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "JTAG.Z" input
+			(at 209.55 138.43 180)
+			(uuid "f34d8e7f-30a8-4269-9ba2-783e672f696c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART0" input
+			(at 209.55 133.35 180)
+			(uuid "532d4ce8-a28d-49e1-93a1-8f7641c51c66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 44.45)
 		(size 44.45 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -144,7 +276,7 @@
 		)
 		(uuid "db3711b0-f4a6-4694-bd1d-6c88710ed953")
 		(property "Sheetname" "zynqMio"
-			(at 107.188 68.072 0)
+			(at 107.188 49.022 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -153,7 +285,7 @@
 			)
 		)
 		(property "Sheetfile" "zynqMio.kicad_sch"
-			(at 105.41 100.9146 0)
+			(at 105.41 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,7 +294,7 @@
 			)
 		)
 		(pin "ETH0" bidirectional
-			(at 149.86 69.85 0)
+			(at 149.86 48.26 0)
 			(uuid "a88034cc-cf21-4d5f-9f33-1d44e9a7512a")
 			(effects
 				(font
@@ -172,7 +304,7 @@
 			)
 		)
 		(pin "SD0" bidirectional
-			(at 149.86 78.74 0)
+			(at 149.86 55.88 0)
 			(uuid "1e77ef8c-2d0a-490f-9671-fc89d5953166")
 			(effects
 				(font
@@ -182,8 +314,48 @@
 			)
 		)
 		(pin "USB0" bidirectional
-			(at 149.86 86.36 0)
+			(at 149.86 50.8 0)
 			(uuid "df4f5238-a977-40c1-8082-1b87ff361db6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIO0" bidirectional
+			(at 149.86 63.5 0)
+			(uuid "ccd3a64c-c283-435c-be45-f142cc054aab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIO1" bidirectional
+			(at 149.86 66.04 0)
+			(uuid "65c0e82a-923a-4d70-b9d1-7899ca014836")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "QSPI0" bidirectional
+			(at 149.86 58.42 0)
+			(uuid "ba8bafe8-10b7-4628-8f11-e73a8c8e5265")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0" bidirectional
+			(at 149.86 77.47 0)
+			(uuid "d4adf320-c78a-45cf-a3fd-38afa7a104ce")
 			(effects
 				(font
 					(size 1.27 1.27)
