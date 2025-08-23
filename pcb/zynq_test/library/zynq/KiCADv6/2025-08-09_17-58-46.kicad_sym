@@ -85,42 +85,6 @@
 			(pin power_in line
 				(at -21.59 25.4 0)
 				(length 6.35)
-				(name "VCCO_0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "K6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -21.59 22.86 0)
-				(length 6.35)
-				(name "VCCBATT_0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -21.59 17.78 0)
-				(length 6.35)
 				(name "VCCADC_0"
 					(effects
 						(font
@@ -137,7 +101,7 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 15.24 0)
+				(at -21.59 22.86 0)
 				(length 6.35)
 				(name "GNDADC_0"
 					(effects
@@ -155,7 +119,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -21.59 8.89 0)
+				(at -21.59 13.97 0)
 				(length 6.35)
 				(name "RSVDVCC1"
 					(effects
@@ -173,7 +137,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -21.59 6.35 0)
+				(at -21.59 11.43 0)
 				(length 6.35)
 				(name "RSVDVCC2"
 					(effects
@@ -191,7 +155,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -21.59 3.81 0)
+				(at -21.59 8.89 0)
 				(length 6.35)
 				(name "RSVDVCC3"
 					(effects
@@ -209,7 +173,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -21.59 1.27 0)
+				(at -21.59 6.35 0)
 				(length 6.35)
 				(name "RSVDGND"
 					(effects
@@ -227,7 +191,7 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 -6.35 0)
+				(at -21.59 -5.08 0)
 				(length 6.35)
 				(name "VN_0"
 					(effects
@@ -245,7 +209,7 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 -8.89 0)
+				(at -21.59 -7.62 0)
 				(length 6.35)
 				(name "VP_0"
 					(effects
@@ -263,7 +227,7 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 -11.43 0)
+				(at -21.59 -15.24 0)
 				(length 6.35)
 				(name "VREFN_0"
 					(effects
@@ -281,7 +245,7 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 -13.97 0)
+				(at -21.59 -17.78 0)
 				(length 6.35)
 				(name "VREFP_0"
 					(effects
@@ -3119,7 +3083,7 @@
 		(symbol "XC7Z020-2CLG400I_5_1"
 			(rectangle
 				(start -17.78 26.67)
-				(end 17.78 -24.13)
+				(end 17.78 -21.59)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -3173,7 +3137,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 21.59 180)
+				(at -24.13 -19.05 0)
 				(length 6.35)
 				(name "PS_CLK_500"
 					(effects
@@ -3191,7 +3155,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 16.51 180)
+				(at 24.13 19.05 180)
 				(length 6.35)
 				(name "PS_MIO0_500"
 					(effects
@@ -3209,7 +3173,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 13.97 180)
+				(at 24.13 16.51 180)
 				(length 6.35)
 				(name "PS_MIO1_500"
 					(effects
@@ -3227,7 +3191,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 11.43 180)
+				(at 24.13 13.97 180)
 				(length 6.35)
 				(name "PS_MIO2_500"
 					(effects
@@ -3245,7 +3209,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 8.89 180)
+				(at 24.13 11.43 180)
 				(length 6.35)
 				(name "PS_MIO3_500"
 					(effects
@@ -3263,7 +3227,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 6.35 180)
+				(at 24.13 8.89 180)
 				(length 6.35)
 				(name "PS_MIO4_500"
 					(effects
@@ -3281,7 +3245,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 3.81 180)
+				(at 24.13 6.35 180)
 				(length 6.35)
 				(name "PS_MIO5_500"
 					(effects
@@ -3299,7 +3263,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 1.27 180)
+				(at 24.13 3.81 180)
 				(length 6.35)
 				(name "PS_MIO6_500"
 					(effects
@@ -3317,7 +3281,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -1.27 180)
+				(at 24.13 1.27 180)
 				(length 6.35)
 				(name "PS_MIO7_500"
 					(effects
@@ -3335,7 +3299,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -3.81 180)
+				(at 24.13 -1.27 180)
 				(length 6.35)
 				(name "PS_MIO8_500"
 					(effects
@@ -3353,7 +3317,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -6.35 180)
+				(at 24.13 -3.81 180)
 				(length 6.35)
 				(name "PS_MIO9_500"
 					(effects
@@ -3371,7 +3335,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -8.89 180)
+				(at 24.13 -6.35 180)
 				(length 6.35)
 				(name "PS_MIO10_500"
 					(effects
@@ -3389,7 +3353,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -11.43 180)
+				(at 24.13 -8.89 180)
 				(length 6.35)
 				(name "PS_MIO11_500"
 					(effects
@@ -3407,7 +3371,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -13.97 180)
+				(at 24.13 -11.43 180)
 				(length 6.35)
 				(name "PS_MIO12_500"
 					(effects
@@ -3425,7 +3389,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -16.51 180)
+				(at 24.13 -13.97 180)
 				(length 6.35)
 				(name "PS_MIO13_500"
 					(effects
@@ -3443,7 +3407,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -19.05 180)
+				(at 24.13 -16.51 180)
 				(length 6.35)
 				(name "PS_MIO14_500"
 					(effects
@@ -3461,7 +3425,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -21.59 180)
+				(at 24.13 -19.05 180)
 				(length 6.35)
 				(name "PS_MIO15_500"
 					(effects
@@ -4277,7 +4241,7 @@
 		(symbol "XC7Z020-2CLG400I_7_1"
 			(rectangle
 				(start -21.59 59.69)
-				(end 21.59 -74.93)
+				(end 21.59 -76.2)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -4961,7 +4925,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -66.04 0)
+				(at -27.94 -67.31 0)
 				(length 6.35)
 				(name "PS_DDR_BA0_502"
 					(effects
@@ -4979,7 +4943,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -68.58 0)
+				(at -27.94 -69.85 0)
 				(length 6.35)
 				(name "PS_DDR_BA1_502"
 					(effects
@@ -4997,7 +4961,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -71.12 0)
+				(at -27.94 -72.39 0)
 				(length 6.35)
 				(name "PS_DDR_BA2_502"
 					(effects
@@ -5087,7 +5051,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 44.45 180)
+				(at 27.94 41.91 180)
 				(length 6.35)
 				(name "PS_DDR_DQ0_502"
 					(effects
@@ -5105,7 +5069,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 41.91 180)
+				(at 27.94 39.37 180)
 				(length 6.35)
 				(name "PS_DDR_DQ1_502"
 					(effects
@@ -5123,7 +5087,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 39.37 180)
+				(at 27.94 36.83 180)
 				(length 6.35)
 				(name "PS_DDR_DQ2_502"
 					(effects
@@ -5141,7 +5105,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 36.83 180)
+				(at 27.94 34.29 180)
 				(length 6.35)
 				(name "PS_DDR_DQ3_502"
 					(effects
@@ -5159,7 +5123,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 34.29 180)
+				(at 27.94 31.75 180)
 				(length 6.35)
 				(name "PS_DDR_DQ4_502"
 					(effects
@@ -5177,7 +5141,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 31.75 180)
+				(at 27.94 29.21 180)
 				(length 6.35)
 				(name "PS_DDR_DQ5_502"
 					(effects
@@ -5195,7 +5159,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 29.21 180)
+				(at 27.94 26.67 180)
 				(length 6.35)
 				(name "PS_DDR_DQ6_502"
 					(effects
@@ -5213,7 +5177,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 26.67 180)
+				(at 27.94 24.13 180)
 				(length 6.35)
 				(name "PS_DDR_DQ7_502"
 					(effects
@@ -5231,7 +5195,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 24.13 180)
+				(at 27.94 21.59 180)
 				(length 6.35)
 				(name "PS_DDR_DQ8_502"
 					(effects
@@ -5249,7 +5213,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 21.59 180)
+				(at 27.94 17.78 180)
 				(length 6.35)
 				(name "PS_DDR_DQ9_502"
 					(effects
@@ -5267,7 +5231,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 19.05 180)
+				(at 27.94 15.24 180)
 				(length 6.35)
 				(name "PS_DDR_DQ10_502"
 					(effects
@@ -5285,7 +5249,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 16.51 180)
+				(at 27.94 12.7 180)
 				(length 6.35)
 				(name "PS_DDR_DQ11_502"
 					(effects
@@ -5303,7 +5267,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 13.97 180)
+				(at 27.94 10.16 180)
 				(length 6.35)
 				(name "PS_DDR_DQ12_502"
 					(effects
@@ -5321,7 +5285,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 11.43 180)
+				(at 27.94 7.62 180)
 				(length 6.35)
 				(name "PS_DDR_DQ13_502"
 					(effects
@@ -5339,7 +5303,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 8.89 180)
+				(at 27.94 5.08 180)
 				(length 6.35)
 				(name "PS_DDR_DQ14_502"
 					(effects
@@ -5357,7 +5321,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 6.35 180)
+				(at 27.94 2.54 180)
 				(length 6.35)
 				(name "PS_DDR_DQ15_502"
 					(effects
@@ -5375,7 +5339,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 3.81 180)
+				(at 27.94 0 180)
 				(length 6.35)
 				(name "PS_DDR_DQ16_502"
 					(effects
@@ -5393,7 +5357,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 1.27 180)
+				(at 27.94 -3.81 180)
 				(length 6.35)
 				(name "PS_DDR_DQ17_502"
 					(effects
@@ -5411,7 +5375,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -1.27 180)
+				(at 27.94 -6.35 180)
 				(length 6.35)
 				(name "PS_DDR_DQ18_502"
 					(effects
@@ -5429,7 +5393,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -3.81 180)
+				(at 27.94 -8.89 180)
 				(length 6.35)
 				(name "PS_DDR_DQ19_502"
 					(effects
@@ -5447,7 +5411,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -6.35 180)
+				(at 27.94 -11.43 180)
 				(length 6.35)
 				(name "PS_DDR_DQ20_502"
 					(effects
@@ -5465,7 +5429,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -8.89 180)
+				(at 27.94 -13.97 180)
 				(length 6.35)
 				(name "PS_DDR_DQ21_502"
 					(effects
@@ -5483,7 +5447,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -11.43 180)
+				(at 27.94 -16.51 180)
 				(length 6.35)
 				(name "PS_DDR_DQ22_502"
 					(effects
@@ -5501,7 +5465,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -13.97 180)
+				(at 27.94 -19.05 180)
 				(length 6.35)
 				(name "PS_DDR_DQ23_502"
 					(effects
@@ -5519,7 +5483,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -16.51 180)
+				(at 27.94 -22.86 180)
 				(length 6.35)
 				(name "PS_DDR_DQ24_502"
 					(effects
@@ -5537,7 +5501,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -19.05 180)
+				(at 27.94 -25.4 180)
 				(length 6.35)
 				(name "PS_DDR_DQ25_502"
 					(effects
@@ -5555,7 +5519,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -21.59 180)
+				(at 27.94 -27.94 180)
 				(length 6.35)
 				(name "PS_DDR_DQ26_502"
 					(effects
@@ -5573,7 +5537,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -24.13 180)
+				(at 27.94 -30.48 180)
 				(length 6.35)
 				(name "PS_DDR_DQ27_502"
 					(effects
@@ -5591,7 +5555,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -26.67 180)
+				(at 27.94 -33.02 180)
 				(length 6.35)
 				(name "PS_DDR_DQ28_502"
 					(effects
@@ -5609,7 +5573,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -29.21 180)
+				(at 27.94 -35.56 180)
 				(length 6.35)
 				(name "PS_DDR_DQ29_502"
 					(effects
@@ -5627,7 +5591,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -31.75 180)
+				(at 27.94 -38.1 180)
 				(length 6.35)
 				(name "PS_DDR_DQ30_502"
 					(effects
@@ -5645,7 +5609,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -34.29 180)
+				(at 27.94 -40.64 180)
 				(length 6.35)
 				(name "PS_DDR_DQ31_502"
 					(effects
@@ -5663,7 +5627,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -41.91 180)
+				(at 27.94 -45.72 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_P0_502"
 					(effects
@@ -5681,7 +5645,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -44.45 180)
+				(at 27.94 -48.26 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_N0_502"
 					(effects
@@ -5699,7 +5663,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -48.26 180)
+				(at 27.94 -52.07 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_P1_502"
 					(effects
@@ -5717,7 +5681,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -50.8 180)
+				(at 27.94 -54.61 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_N1_502"
 					(effects
@@ -5735,7 +5699,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -54.61 180)
+				(at 27.94 -58.42 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_P2_502"
 					(effects
@@ -5753,7 +5717,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -57.15 180)
+				(at 27.94 -60.96 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_N2_502"
 					(effects
@@ -5771,7 +5735,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -60.96 180)
+				(at 27.94 -64.77 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_N3_502"
 					(effects
@@ -5789,7 +5753,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -63.5 180)
+				(at 27.94 -67.31 180)
 				(length 6.35)
 				(name "PS_DDR_DQS_P3_502"
 					(effects
@@ -5807,7 +5771,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -71.12 180)
+				(at 27.94 -72.39 180)
 				(length 6.35)
 				(name "PS_DDR_DRST_B_502"
 					(effects
@@ -5954,7 +5918,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 44.45 0)
+				(at -16.51 50.8 0)
 				(length 6.35)
 				(name "VCCBRAM"
 					(effects
@@ -5972,7 +5936,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 41.91 0)
+				(at -16.51 48.26 0)
 				(length 6.35)
 				(name "VCCBRAM"
 					(effects
@@ -5990,7 +5954,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 27.94 0)
+				(at -16.51 29.21 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6008,7 +5972,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 25.4 0)
+				(at -16.51 26.67 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6026,7 +5990,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 22.86 0)
+				(at -16.51 24.13 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6044,7 +6008,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 20.32 0)
+				(at -16.51 21.59 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6062,7 +6026,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 17.78 0)
+				(at -16.51 19.05 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6080,7 +6044,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 15.24 0)
+				(at -16.51 16.51 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6098,7 +6062,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 12.7 0)
+				(at -16.51 13.97 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6116,7 +6080,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 10.16 0)
+				(at -16.51 11.43 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6134,7 +6098,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 7.62 0)
+				(at -16.51 8.89 0)
 				(length 6.35)
 				(name "VCCINT"
 					(effects
@@ -6152,7 +6116,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -6.35 0)
+				(at -16.51 -2.54 0)
 				(length 6.35)
 				(name "VCCPAUX"
 					(effects
@@ -6170,7 +6134,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -8.89 0)
+				(at -16.51 -5.08 0)
 				(length 6.35)
 				(name "VCCPAUX"
 					(effects
@@ -6188,7 +6152,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -11.43 0)
+				(at -16.51 -7.62 0)
 				(length 6.35)
 				(name "VCCPAUX"
 					(effects
@@ -6206,7 +6170,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -13.97 0)
+				(at -16.51 -10.16 0)
 				(length 6.35)
 				(name "VCCPAUX"
 					(effects
@@ -6224,7 +6188,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -16.51 0)
+				(at -16.51 -12.7 0)
 				(length 6.35)
 				(name "VCCPAUX"
 					(effects
@@ -6242,7 +6206,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -29.21 0)
+				(at -16.51 -24.13 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6260,7 +6224,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -31.75 0)
+				(at -16.51 -26.67 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6278,7 +6242,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -34.29 0)
+				(at -16.51 -29.21 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6296,7 +6260,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -36.83 0)
+				(at -16.51 -31.75 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6314,7 +6278,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -39.37 0)
+				(at -16.51 -34.29 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6332,7 +6296,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -41.91 0)
+				(at -16.51 -36.83 0)
 				(length 6.35)
 				(name "VCCPINT"
 					(effects
@@ -6350,7 +6314,7 @@
 				)
 			)
 			(pin power_in line
-				(at -16.51 -58.42 0)
+				(at -16.51 -45.72 0)
 				(length 6.35)
 				(name "VCCPLL"
 					(effects
@@ -6360,6 +6324,42 @@
 					)
 				)
 				(number "G8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -16.51 -59.69 0)
+				(length 6.35)
+				(name "VCCO_0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -16.51 -72.39 0)
+				(length 6.35)
+				(name "VCCBATT_0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F11"
 					(effects
 						(font
 							(size 1.27 1.27)

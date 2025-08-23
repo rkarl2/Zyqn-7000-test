@@ -475,7 +475,7 @@
       },
       {
         "name": "ETH0",
-        "pcb_color": "rgb(0, 194, 0)",
+        "pcb_color": "rgb(72, 0, 72)",
         "priority": 4,
         "schematic_color": "rgb(72, 0, 72)"
       },
@@ -506,7 +506,7 @@
       {
         "line_style": 0,
         "name": "USB0",
-        "pcb_color": "rgb(255, 0, 255)",
+        "pcb_color": "rgb(0, 132, 132)",
         "priority": 5,
         "schematic_color": "rgb(0, 132, 132)"
       }
