@@ -730,6 +730,22 @@
     [
       "cbe65b94-50f2-402b-8037-053235586035",
       "Programmer"
+    ],
+    [
+      "bfda2b81-ae83-4c43-9b35-8cba40abfb88",
+      "Cameras"
+    ],
+    [
+      "b6bdf80f-5419-4b93-bd57-dce09279fadf",
+      "HDMI"
+    ],
+    [
+      "054c8c8d-10fe-458e-89fa-3861c8d6d3b7",
+      "Boot"
+    ],
+    [
+      "f230d79d-5f9c-4b40-9d06-9505b0c2c40c",
+      "Ethernet+USB"
     ]
   ],
   "text_variables": {}

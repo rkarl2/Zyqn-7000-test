@@ -17310,6 +17310,16 @@
 		)
 		(uuid "3fca6a0f-9973-44d2-82c1-e6f2d0498065")
 	)
+	(wire
+		(pts
+			(xy 232.41 101.6) (xy 247.65 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404f4a03-2925-465b-b5c4-e31bfe89a0c9")
+	)
 	(bus
 		(pts
 			(xy 129.54 63.5) (xy 129.54 60.96)
@@ -18482,7 +18492,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 101.6) (xy 247.65 101.6)
+			(xy 213.36 101.6) (xy 227.33 101.6)
 		)
 		(stroke
 			(width 0)
@@ -22673,6 +22683,16 @@
 			"zm/d/B/035h5sDeovGtr/z8BCJaEhq3wQa+kX33DjuntzKh+AGY7U+Hzs8X/y5OR7aT60deWX/z/"
 			"/uf/AV9iO0Y3+yfkAAAAAElFTkSuQmCC"
 		)
+	)
+	(label "SD0.CLK.Z"
+		(at 213.36 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "011a8c08-3443-43c1-85a1-f8cca88ba956")
 	)
 	(label "MIO0.12"
 		(at 123.19 71.12 180)
@@ -29291,6 +29311,73 @@
 			(project ""
 				(path "/0637578d-4ce5-4d31-b973-2de977269ea5/db3711b0-f4a6-4694-bd1d-6c88710ed953"
 					(reference "#PWR0201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 229.87 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f43191a3-fbbd-443d-a994-9a2380cca5ed")
+		(property "Reference" "R217"
+			(at 233.934 100.584 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 229.87 101.6 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 229.87 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6eb16d7d-47e1-430c-9ac8-019671ed43b8")
+		)
+		(pin "2"
+			(uuid "42d5b9c1-0a0e-44df-8afe-6f36a75b2a7c")
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5/db3711b0-f4a6-4694-bd1d-6c88710ed953"
+					(reference "R217")
 					(unit 1)
 				)
 			)

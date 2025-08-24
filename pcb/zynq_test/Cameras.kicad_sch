@@ -1,0 +1,41 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3da871b3-d637-4b6d-98a2-7b4582b11af6")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "CAM_RX.1"
+		(shape input)
+		(at 43.18 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a6ae34df-e6df-4c3f-88fa-cce7f432bb90")
+	)
+	(hierarchical_label "CAM_RX.0"
+		(shape input)
+		(at 43.18 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b2a1c9e9-0071-4582-9877-416392f82be0")
+	)
+	(hierarchical_label "CAM_TX.2"
+		(shape input)
+		(at 43.18 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ba04d165-5800-42cd-a2c1-1e9abc358ffe")
+	)
+)
