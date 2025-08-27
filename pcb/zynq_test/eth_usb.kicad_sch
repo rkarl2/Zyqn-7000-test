@@ -1964,12 +1964,12 @@
 	)
 	(hierarchical_label "ETH0"
 		(shape bidirectional)
-		(at 38.1 60.96 0)
+		(at 44.45 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "8d798205-6fa5-458e-ba21-7f19b2d414ae")
 	)

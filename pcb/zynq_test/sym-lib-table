@@ -3,4 +3,5 @@
   (lib (name "zynq")(type "KiCad")(uri "${KIPRJMOD}/library/zynq/KiCADv6/2025-08-09_17-58-46.kicad_sym")(options "")(descr ""))
   (lib (name "ddr3")(type "KiCad")(uri "${KIPRJMOD}/library/DDR3/MT41K256M16TW-107_P.kicad_sym")(options "")(descr ""))
   (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/library/other/other.kicad_sym")(options "")(descr ""))
+  (lib (name "camera")(type "KiCad")(uri "${KIPRJMOD}/library/camera/1-1734248-5.kicad_sym")(options "")(descr ""))
 )

@@ -540,6 +540,10 @@
       {
         "netclass": "UART0",
         "pattern": "*UART0*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "*CAM*"
       }
     ]
   },
