@@ -4,4 +4,5 @@
   (lib (name "ddr3")(type "KiCad")(uri "${KIPRJMOD}/library/DDR3/MT41K256M16TW-107_P.kicad_sym")(options "")(descr ""))
   (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/library/other/other.kicad_sym")(options "")(descr ""))
   (lib (name "camera")(type "KiCad")(uri "${KIPRJMOD}/library/camera/1-1734248-5.kicad_sym")(options "")(descr ""))
+  (lib (name "Ethernet")(type "KiCad")(uri "${KIPRJMOD}/library/LAN8830T_V_PSA/KiCADv6/2025-08-30_23-41-14.kicad_sym")(options "")(descr ""))
 )

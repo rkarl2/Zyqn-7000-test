@@ -477,7 +477,7 @@
         "name": "ETH0",
         "pcb_color": "rgb(72, 0, 72)",
         "priority": 4,
-        "schematic_color": "rgb(72, 0, 72)"
+        "schematic_color": "rgb(147, 0, 147)"
       },
       {
         "name": "MIO",
@@ -489,26 +489,26 @@
         "name": "QSPI0",
         "pcb_color": "rgb(255, 0, 0)",
         "priority": 2,
-        "schematic_color": "rgb(255, 0, 0)"
+        "schematic_color": "rgb(194, 0, 0)"
       },
       {
         "name": "SD0",
         "pcb_color": "rgb(0, 0, 255)",
         "priority": 3,
-        "schematic_color": "rgb(0, 0, 255)"
+        "schematic_color": "rgb(255, 0, 0)"
       },
       {
         "name": "UART0",
         "pcb_color": "rgb(255, 153, 0)",
         "priority": 0,
-        "schematic_color": "rgb(255, 153, 0)"
+        "schematic_color": "rgb(132, 0, 0)"
       },
       {
         "line_style": 0,
         "name": "USB0",
         "pcb_color": "rgb(0, 132, 132)",
         "priority": 5,
-        "schematic_color": "rgb(0, 132, 132)"
+        "schematic_color": "rgb(0, 0, 255)"
       }
     ],
     "meta": {
@@ -749,7 +749,11 @@
     ],
     [
       "f230d79d-5f9c-4b40-9d06-9505b0c2c40c",
-      "Ethernet+USB"
+      "USB_OTG"
+    ],
+    [
+      "c2781f92-5ea5-4e37-80b2-cda210986130",
+      "ETHERNET"
     ]
   ],
   "text_variables": {}

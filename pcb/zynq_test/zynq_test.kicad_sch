@@ -7,6 +7,16 @@
 	(lib_symbols)
 	(bus
 		(pts
+			(xy 175.26 82.55) (xy 175.26 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0afb096d-35ab-4ab6-8a52-d6b906610afa")
+	)
+	(bus
+		(pts
 			(xy 64.77 60.96) (xy 105.41 60.96)
 		)
 		(stroke
@@ -47,16 +57,6 @@
 	)
 	(bus
 		(pts
-			(xy 149.86 71.12) (xy 212.09 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ffd119c-0a6f-45d0-9788-7b73632e5bbb")
-	)
-	(bus
-		(pts
 			(xy 149.86 138.43) (xy 209.55 138.43)
 		)
 		(stroke
@@ -67,7 +67,27 @@
 	)
 	(bus
 		(pts
-			(xy 149.86 73.66) (xy 212.09 73.66)
+			(xy 149.86 71.12) (xy 212.09 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a09e4ede-38fb-45ad-92c8-22b5d49bacbd")
+	)
+	(bus
+		(pts
+			(xy 175.26 73.66) (xy 149.86 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a399e30b-2d0a-4fa3-b523-f27677f2c5d2")
+	)
+	(bus
+		(pts
+			(xy 175.26 82.55) (xy 212.09 82.55)
 		)
 		(stroke
 			(width 0)
@@ -391,6 +411,57 @@
 		)
 	)
 	(sheet
+		(at 212.09 63.5)
+		(size 27.94 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c2781f92-5ea5-4e37-80b2-cda210986130")
+		(property "Sheetname" "ETHERNET"
+			(at 212.09 67.564 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 212.09 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ETH0" bidirectional
+			(at 212.09 71.12 180)
+			(uuid "c597d32f-1600-4a18-9205-ee0a6c47b2a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 105.41 15.24)
 		(size 44.45 24.13)
 		(exclude_from_sim no)
@@ -615,8 +686,8 @@
 		)
 	)
 	(sheet
-		(at 212.09 63.5)
-		(size 27.94 16.51)
+		(at 212.09 76.2)
+		(size 27.94 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -629,8 +700,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "f230d79d-5f9c-4b40-9d06-9505b0c2c40c")
-		(property "Sheetname" "Ethernet+USB"
-			(at 211.836 67.31 0)
+		(property "Sheetname" "USB_OTG"
+			(at 211.836 80.01 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -638,8 +709,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "eth_usb.kicad_sch"
-			(at 212.09 80.5946 0)
+		(property "Sheetfile" "usb_otg.kicad_sch"
+			(at 212.344 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -647,18 +718,8 @@
 				(justify left top)
 			)
 		)
-		(pin "ETH0" bidirectional
-			(at 212.09 71.12 180)
-			(uuid "deec67f4-e733-42ba-8c40-50f42c48ad1c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "USB0" bidirectional
-			(at 212.09 73.66 180)
+			(at 212.09 82.55 180)
 			(uuid "43546430-f688-4729-91d7-9217a5e08982")
 			(effects
 				(font
