@@ -24096,7 +24096,7 @@
 	(junction
 		(at 251.46 120.65)
 		(diameter 0)
-		(color 0 0 194 1)
+		(color 0 0 0 0)
 		(uuid "478c837f-cc10-488c-a0d6-df4b016357a1")
 	)
 	(junction
@@ -25256,7 +25256,6 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 194 1)
 		)
 		(uuid "1b4aed5f-adbc-4459-bed7-776ff31aa670")
 	)
@@ -27037,7 +27036,6 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 194 1)
 		)
 		(uuid "93cf43a0-44fe-4b40-b762-dcbd40d26b83")
 	)
@@ -28148,7 +28146,6 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 194 1)
 		)
 		(uuid "e3b00801-52c7-4cc5-9322-920b6e0d9f9e")
 	)
@@ -28751,6 +28748,16 @@
 			(justify left bottom)
 		)
 		(uuid "9830de77-af31-4c4e-b8d2-534eadccb51f")
+	)
+	(label "VCC_PLL"
+		(at 53.34 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99a6e18a-3bd9-487f-8182-a2e3c4cd272f")
 	)
 	(label "PROG"
 		(at 213.36 123.19 0)
