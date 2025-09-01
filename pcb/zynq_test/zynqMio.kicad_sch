@@ -25103,7 +25103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Zynq:CLG400_ZYNQ-7000_AMD"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 34.29 -16.51 0)
 			(effects
 				(font
@@ -26776,7 +26776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Zynq:CLG400_ZYNQ-7000_AMD"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 157.48 13.97 0)
 			(effects
 				(font

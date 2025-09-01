@@ -280,7 +280,7 @@
 	)
 	(sheet
 		(at 212.09 34.29)
-		(size 27.94 13.97)
+		(size 27.94 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -303,7 +303,7 @@
 			)
 		)
 		(property "Sheetfile" "HDMI.kicad_sch"
-			(at 212.09 49.022 0)
+			(at 212.09 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -324,6 +324,16 @@
 		(pin "HDMI.TX" input
 			(at 212.09 43.18 180)
 			(uuid "4eac444d-e0aa-47d2-8668-1577cd9fcc71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI.CTR" bidirectional
+			(at 212.09 48.26 180)
+			(uuid "7a189eb7-a177-42b3-9775-aeacd42f49a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -411,8 +421,8 @@
 		)
 	)
 	(sheet
-		(at 212.09 63.5)
-		(size 27.94 10.16)
+		(at 212.09 57.15)
+		(size 27.94 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -426,7 +436,7 @@
 		)
 		(uuid "c2781f92-5ea5-4e37-80b2-cda210986130")
 		(property "Sheetname" "ETHERNET"
-			(at 212.09 67.564 0)
+			(at 212.09 61.214 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -435,7 +445,7 @@
 			)
 		)
 		(property "Sheetfile" "ethernet.kicad_sch"
-			(at 212.09 74.2446 0)
+			(at 212.09 74.168 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -446,6 +456,36 @@
 		(pin "ETH0" bidirectional
 			(at 212.09 71.12 180)
 			(uuid "c597d32f-1600-4a18-9205-ee0a6c47b2a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK_125M" output
+			(at 212.09 66.04 180)
+			(uuid "adba3d75-259c-4de1-9890-e6ddfd75e3f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH0_INT" output
+			(at 212.09 68.58 180)
+			(uuid "5fc3647e-8394-4978-ae44-086ec52fb57b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH0_RST" output
+			(at 212.09 63.5 180)
+			(uuid "be8f113c-190c-4f6a-bbf1-2274f706e3b7")
 			(effects
 				(font
 					(size 1.27 1.27)

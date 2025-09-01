@@ -7929,7 +7929,7 @@
 	)
 	(text "RESET"
 		(exclude_from_sim no)
-		(at 21.59 100.584 0)
+		(at 22.352 101.6 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7970,7 +7970,7 @@
 	)
 	(text "CLK"
 		(exclude_from_sim no)
-		(at 118.872 131.826 0)
+		(at 116.84 128.524 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -14263,6 +14263,26 @@
 			"AGwQUh4AAAAAAAAAYIP+D7z0M7uGbYg6AAAAAElFTkSuQmCC"
 		)
 	)
+	(label "ETH_TX2_P"
+		(at 238.76 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "017a95ca-172c-4daa-8415-879ebba5de30")
+	)
+	(label "ETH_TX2_C"
+		(at 238.76 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0737f9ef-5367-4e93-a6af-4788fb124f5a")
+	)
 	(label "A_ADDR"
 		(at 248.92 143.51 180)
 		(effects
@@ -14293,6 +14313,16 @@
 		)
 		(uuid "0d685aab-6731-466f-9b39-c6bcf0e755d0")
 	)
+	(label "ETH_TX1_P"
+		(at 238.76 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f6f4b22-275b-4f54-9a6e-909fdacaa1f1")
+	)
 	(label "ETH0.RXD-0.L"
 		(at 74.93 35.56 180)
 		(effects
@@ -14312,6 +14342,16 @@
 			(justify right bottom)
 		)
 		(uuid "2cc7b077-f23a-4512-8c99-e691e76b01c6")
+	)
+	(label "ETH_TX2_N"
+		(at 238.76 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f01ff40-fa0b-4499-8751-b361e5b8b13f")
 	)
 	(label "LED1_D"
 		(at 224.79 119.38 0)
@@ -14373,6 +14413,26 @@
 		)
 		(uuid "41c67474-f796-4c72-b112-49a67d792ed1")
 	)
+	(label "ETH_TX4_C"
+		(at 248.92 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4491c88d-4f95-4d2b-846e-a750555ff25d")
+	)
+	(label "ETH_TX3_N"
+		(at 238.76 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50d0b13a-618d-4116-8f04-3c3f6c98eaea")
+	)
 	(label "LED2_D"
 		(at 251.46 119.38 0)
 		(effects
@@ -14413,6 +14473,16 @@
 		)
 		(uuid "5bab459b-ec39-4076-81e3-feb394b9bbc3")
 	)
+	(label "ETH_TX4_P"
+		(at 238.76 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5dafc263-cf42-477d-a936-dda049541674")
+	)
 	(label "ADDR0"
 		(at 194.31 86.36 180)
 		(effects
@@ -14423,6 +14493,16 @@
 		)
 		(uuid "6045a1a6-bb63-48c2-bc78-e594dd5affa8")
 	)
+	(label "ETH_TX4_N"
+		(at 238.76 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61ffbed6-c61c-480f-a107-3ee5c8e87460")
+	)
 	(label "ETH0.TXD-3"
 		(at 48.26 69.85 180)
 		(effects
@@ -14432,6 +14512,26 @@
 			(justify right bottom)
 		)
 		(uuid "6301da71-0122-4b1b-a4f7-f6839a542b4c")
+	)
+	(label "ETH_TX1_N"
+		(at 238.76 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e3adcca-31b8-4223-8d67-7e5bec2048d3")
+	)
+	(label "ETH_TX3_C"
+		(at 239.1554 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "71704a71-5c3f-4c7d-8d25-6d70baa72939")
 	)
 	(label "ADDR0"
 		(at 248.92 146.05 180)
@@ -14522,6 +14622,16 @@
 			(justify right bottom)
 		)
 		(uuid "a6ccf385-7f49-4add-a864-ffdb6bad9475")
+	)
+	(label "ETH_TX3_P"
+		(at 238.76 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aafc7855-8c1c-4eae-b8e5-800b38e32ea0")
 	)
 	(label "ETH_RST"
 		(at 92.71 99.06 0)
@@ -14662,6 +14772,16 @@
 			(justify right bottom)
 		)
 		(uuid "e1b81a9b-000d-4073-af0b-d7b5ef70d3e9")
+	)
+	(label "ETH_TX1_C"
+		(at 238.76 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6637395-8876-41a1-bffa-96a58621a0e0")
 	)
 	(label "ETH0.RXD-0"
 		(at 48.26 35.56 180)
@@ -18774,7 +18894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
 			(at 151.13 41.91 0)
 			(effects
 				(font
@@ -20769,7 +20889,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
 			(at 102.87 148.59 0)
 			(effects
 				(font

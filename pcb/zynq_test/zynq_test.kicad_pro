@@ -476,38 +476,50 @@
       {
         "name": "ETH0",
         "pcb_color": "rgb(194, 194, 0)",
-        "priority": 4,
+        "priority": 6,
         "schematic_color": "rgb(194, 194, 0)"
+      },
+      {
+        "name": "HDMI",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(0, 0, 255)"
+      },
+      {
+        "name": "JTAG",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgb(215, 0, 215)"
       },
       {
         "name": "MIO",
         "pcb_color": "rgb(63, 148, 194)",
-        "priority": 1,
+        "priority": 3,
         "schematic_color": "rgb(63, 148, 194)"
       },
       {
         "name": "QSPI0",
         "pcb_color": "rgb(194, 0, 0)",
-        "priority": 2,
+        "priority": 4,
         "schematic_color": "rgb(194, 0, 0)"
       },
       {
         "name": "SD0",
         "pcb_color": "rgb(255, 0, 0)",
-        "priority": 3,
+        "priority": 5,
         "schematic_color": "rgb(255, 0, 0)"
       },
       {
         "name": "UART0",
         "pcb_color": "rgb(194, 0, 194)",
-        "priority": 0,
-        "schematic_color": "rgb(194, 0, 194)"
+        "priority": 2,
+        "schematic_color": "rgb(178, 0, 255)"
       },
       {
         "line_style": 0,
         "name": "USB0",
         "pcb_color": "rgb(0, 0, 255)",
-        "priority": 5,
+        "priority": 7,
         "schematic_color": "rgb(0, 0, 255)"
       }
     ],
@@ -544,6 +556,14 @@
       {
         "netclass": "Default",
         "pattern": "*CAM*"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "*JTAG*"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/HDMI/HDMI.*"
       }
     ]
   },
