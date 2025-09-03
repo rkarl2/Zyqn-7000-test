@@ -621,7 +621,7 @@
 		(property "Reference" "U1001"
 			(at 0 -3.8 90)
 			(layer "F.SilkS")
-			(uuid "c121be48-5329-4826-b9f4-0b717012a317")
+			(uuid "10b262f1-2e8b-4c88-aaa5-c7265a382bf7")
 			(effects
 				(font
 					(size 1 1)
@@ -632,7 +632,7 @@
 		(property "Value" "TUSB1210-Q1"
 			(at 0 3.8 90)
 			(layer "F.Fab")
-			(uuid "e9e5b752-1472-43b4-a4bd-36bac1490caa")
+			(uuid "9b77ad59-10e4-43d0-b2c1-0f76359a82fb")
 			(effects
 				(font
 					(size 1 1)
@@ -644,7 +644,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "501d1051-b053-4c2d-8dd8-fe6b27ac393f")
+			(uuid "970c5f67-1df4-4115-9d65-950024ef207b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -656,7 +656,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0af07379-49ab-4f80-b344-3578c9d04f28")
+			(uuid "2d6e20a3-231c-4543-944c-4f07acdc03c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2139,7 +2139,7 @@
 	(footprint "Camera:TE_1-1734248-5"
 		(layer "F.Cu")
 		(uuid "5c5a4dd9-29da-4987-8b78-a1082155b4f8")
-		(at 172.595 101.67 90)
+		(at 172.975 101.5 90)
 		(property "Reference" "J701"
 			(at -5.37339 -4.010418 90)
 			(layer "F.SilkS")
@@ -2926,7 +2926,7 @@
 		(property "Reference" "J1101"
 			(at 8.95 -5.85 90)
 			(layer "F.SilkS")
-			(uuid "2e1f802a-594d-4820-b46b-35ef64b67d39")
+			(uuid "3f5c5734-efa9-4aac-85df-b4906445abd0")
 			(effects
 				(font
 					(size 1 1)
@@ -2937,7 +2937,7 @@
 		(property "Value" "RJ45_JK0654219"
 			(at 10.35 16.35 90)
 			(layer "F.Fab")
-			(uuid "3fc7d730-b178-4167-a050-9fa32592dcac")
+			(uuid "80f27233-cf00-450d-bc80-2c0c7fad2e6c")
 			(effects
 				(font
 					(size 1 1)
@@ -2950,7 +2950,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d217ca5-8ca7-46d3-8aa8-3a8c6e1f5a37")
+			(uuid "710c60bc-a44f-49b7-ba99-123f3a0668a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2963,7 +2963,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c215f71-00d5-45a0-a9ff-240cf7c36962")
+			(uuid "8106c14b-48b5-435e-a1c5-ec999bd871c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8817,13 +8817,13 @@
 	(footprint "Package_DFN_QFN:VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
 		(layer "F.Cu")
 		(uuid "db933ae0-b2a6-4ca3-977b-c27aa1013324")
-		(at 119.22 69.3875)
+		(at 119.75 68.9375)
 		(descr "VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py")
 		(tags "VQFN NoLead")
 		(property "Reference" "U1101"
 			(at 7.915 -4.83 0)
 			(layer "F.SilkS")
-			(uuid "3346b254-1e27-49d7-b862-26a4c3c0ec8c")
+			(uuid "ebeff7e3-acac-44f6-bfac-9e8a182214d9")
 			(effects
 				(font
 					(size 1 1)
@@ -8834,7 +8834,7 @@
 		(property "Value" "LAN8830"
 			(at 0 4.83 0)
 			(layer "F.Fab")
-			(uuid "ccef9643-7bb7-47cc-bfcb-1f2c3644f96a")
+			(uuid "1a2e7ade-ea16-436a-8369-866984d4bbca")
 			(effects
 				(font
 					(size 1 1)
@@ -8846,7 +8846,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "18bdbf77-a322-4601-ac97-961c9d4f0336")
+			(uuid "7b72ba3b-dcc3-4caf-a381-21733f5b6aec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8858,7 +8858,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7ea15cb-3ec8-4ba4-b67a-d77e4e068a2e")
+			(uuid "64d91493-1e0e-4b3f-8920-e595bf602a64")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10597,7 +10597,7 @@
 		(property "Reference" "J703"
 			(at -5.37339 -4.010418 90)
 			(layer "F.SilkS")
-			(uuid "56b5558c-d395-45a6-9645-6f30a4437486")
+			(uuid "def70a09-7946-42be-a5b8-3b3c4df04f6b")
 			(effects
 				(font
 					(size 0.640643 0.640643)
@@ -10608,7 +10608,7 @@
 		(property "Value" "1-1734248-5"
 			(at -2.111578 4.965662 90)
 			(layer "F.Fab")
-			(uuid "a7b1121f-0f61-4ec3-8b12-df0996cf92d5")
+			(uuid "3a0532b3-8c15-44ef-ae12-6a256561d0ac")
 			(effects
 				(font
 					(size 0.640359 0.640359)
@@ -10620,7 +10620,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40dddeb4-4073-43b6-83e0-430585641eef")
+			(uuid "182fa1e5-5464-444a-b9c9-791136d9ad5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10632,7 +10632,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5fe39be-36aa-4612-b5f6-ba4d4fc44ce6")
+			(uuid "3c0273da-8815-4afd-9968-0160b4f4a684")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12366,7 +12366,7 @@
 		(property "Reference" "U601"
 			(at 0 5.8 0)
 			(layer "B.SilkS")
-			(uuid "73ff4f3c-094b-47ad-8579-8b4279fc88f9")
+			(uuid "3c70772c-8b0a-4979-8bb1-31a982f445d8")
 			(effects
 				(font
 					(size 1 1)
@@ -12378,7 +12378,7 @@
 		(property "Value" "FT2232HQ"
 			(at 0 -5.8 0)
 			(layer "B.Fab")
-			(uuid "321e70a4-5bc7-4eca-b700-660a03be2d02")
+			(uuid "f152a9fb-1fb8-4c30-a6eb-513d53646923")
 			(effects
 				(font
 					(size 1 1)
@@ -12391,7 +12391,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3f43a04d-61a0-4ba1-9d85-9501a4c85421")
+			(uuid "668d88a1-12e8-4ce9-9ddd-644e1e0337bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12404,7 +12404,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7aca0b11-aca9-407d-b8af-90451afc009e")
+			(uuid "53f894c9-8c5a-4f34-83af-86b87ffa8578")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14458,7 +14458,7 @@
 			(net 492 "unconnected-(J901-DET-Pad9)")
 			(pinfunction "DET")
 			(pintype "passive+no_connect")
-			(uuid "d3aba1e5-9edf-437a-b05f-483e3b79f892")
+			(uuid "c5f3cd5c-3aca-41b6-84fb-742c87c36347")
 		)
 		(pad "9" smd roundrect
 			(at 6.875 -3.6)
@@ -14468,7 +14468,7 @@
 			(net 495 "unconnected-(J901-DET-Pad9)_3")
 			(pinfunction "DET")
 			(pintype "passive+no_connect")
-			(uuid "d3aba1e5-9edf-437a-b05f-483e3b79f892")
+			(uuid "3a33ed3c-7a79-49d0-9a34-2e767636b708")
 		)
 		(pad "9" smd roundrect
 			(at 6.875 4.7)
@@ -14478,7 +14478,7 @@
 			(net 494 "unconnected-(J901-DET-Pad9)_2")
 			(pinfunction "DET")
 			(pintype "passive+no_connect")
-			(uuid "d3aba1e5-9edf-437a-b05f-483e3b79f892")
+			(uuid "21700b51-98eb-41fd-bbe9-057c6e173e3f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_47219-2001.step"
