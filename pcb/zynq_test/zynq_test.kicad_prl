@@ -1,10 +1,34 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 17,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "DDR_ADD"
+    ],
+    "hidden_nets": [
+      "Net-(J801-SDA)",
+      "+1V8",
+      "/Zynq Dram/DDR_CTR.WE",
+      "+3.3V",
+      "/Zynq Mio/QSPI0.SCLK.Z",
+      "/Zynq Dram/DDR_CTR.CAS",
+      "unconnected-(J1101-PadSH)_1",
+      "/Zynq Mio/ETH0.TX-CLK.Z",
+      "/Zynq Dram/DDR_CTR.CS",
+      "/Zynq Dram/DDR_ADDR4",
+      "/Zynq Dram/DDR_ADDR5",
+      "/Zynq Dram/DDR_ADDR2",
+      "/Zynq Mio/MIO0.9",
+      "+1V35",
+      "GND",
+      "/Zynq Dram/DDR_ADDR6",
+      "/Zynq Mio/ETH0.TXD-1.Z",
+      "+1V8_FTDI",
+      "+5V_{USB_OTG}",
+      "+5V",
+      "/Zynq Dram/DDR_ADDR14"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {

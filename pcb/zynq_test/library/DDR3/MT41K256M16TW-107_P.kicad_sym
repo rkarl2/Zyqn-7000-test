@@ -973,8 +973,8 @@
 		)
 		(symbol "MT41K256M16TW-107_2_0"
 			(rectangle
-				(start -34.925 17.145)
-				(end 34.925 -23.495)
+				(start -34.925 16.51)
+				(end 35.56 -13.97)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -984,7 +984,7 @@
 				)
 			)
 			(pin power_in line
-				(at -32.385 22.225 270)
+				(at -31.75 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1002,7 +1002,7 @@
 				)
 			)
 			(pin power_in line
-				(at -32.385 -28.575 90)
+				(at -31.75 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1020,7 +1020,7 @@
 				)
 			)
 			(pin power_in line
-				(at -29.845 22.225 270)
+				(at -29.21 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1038,7 +1038,7 @@
 				)
 			)
 			(pin power_in line
-				(at -29.845 -28.575 90)
+				(at -29.21 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1056,7 +1056,7 @@
 				)
 			)
 			(pin power_in line
-				(at -27.305 22.225 270)
+				(at -26.67 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1074,7 +1074,7 @@
 				)
 			)
 			(pin power_in line
-				(at -27.305 -28.575 90)
+				(at -26.67 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1092,7 +1092,7 @@
 				)
 			)
 			(pin power_in line
-				(at -24.765 22.225 270)
+				(at -24.13 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1110,7 +1110,7 @@
 				)
 			)
 			(pin power_in line
-				(at -24.765 -28.575 90)
+				(at -24.13 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1128,7 +1128,7 @@
 				)
 			)
 			(pin power_in line
-				(at -22.225 22.225 270)
+				(at -21.59 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1146,7 +1146,7 @@
 				)
 			)
 			(pin power_in line
-				(at -22.225 -28.575 90)
+				(at -21.59 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1164,7 +1164,7 @@
 				)
 			)
 			(pin power_in line
-				(at -19.685 22.225 270)
+				(at -19.05 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1182,7 +1182,7 @@
 				)
 			)
 			(pin power_in line
-				(at -19.685 -28.575 90)
+				(at -19.05 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1200,7 +1200,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.145 22.225 270)
+				(at -16.51 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1218,7 +1218,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.145 -28.575 90)
+				(at -16.51 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1236,7 +1236,7 @@
 				)
 			)
 			(pin power_in line
-				(at -14.605 22.225 270)
+				(at -13.97 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1254,7 +1254,7 @@
 				)
 			)
 			(pin power_in line
-				(at -14.605 -28.575 90)
+				(at -13.97 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1272,7 +1272,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.065 22.225 270)
+				(at -11.43 21.59 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -1290,7 +1290,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.065 -28.575 90)
+				(at -11.43 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1308,7 +1308,7 @@
 				)
 			)
 			(pin power_in line
-				(at -9.525 -28.575 90)
+				(at -8.89 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1326,7 +1326,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.985 -28.575 90)
+				(at -6.35 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1344,7 +1344,7 @@
 				)
 			)
 			(pin power_in line
-				(at -4.445 -28.575 90)
+				(at -3.81 -19.05 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -1362,7 +1362,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.905 22.225 270)
+				(at 1.27 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1380,7 +1380,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.905 -28.575 90)
+				(at 2.54 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1398,7 +1398,7 @@
 				)
 			)
 			(pin power_in line
-				(at 4.445 22.225 270)
+				(at 3.81 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1416,7 +1416,7 @@
 				)
 			)
 			(pin power_in line
-				(at 4.445 -28.575 90)
+				(at 5.08 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1434,7 +1434,7 @@
 				)
 			)
 			(pin power_in line
-				(at 6.985 22.225 270)
+				(at 6.35 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1452,7 +1452,7 @@
 				)
 			)
 			(pin power_in line
-				(at 6.985 -28.575 90)
+				(at 7.62 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1470,7 +1470,7 @@
 				)
 			)
 			(pin power_in line
-				(at 9.525 22.225 270)
+				(at 8.89 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1488,7 +1488,7 @@
 				)
 			)
 			(pin power_in line
-				(at 9.525 -28.575 90)
+				(at 10.16 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1506,7 +1506,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.065 22.225 270)
+				(at 11.43 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1524,7 +1524,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.065 -28.575 90)
+				(at 12.7 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1542,7 +1542,7 @@
 				)
 			)
 			(pin power_in line
-				(at 14.605 22.225 270)
+				(at 13.97 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1560,7 +1560,7 @@
 				)
 			)
 			(pin power_in line
-				(at 14.605 -28.575 90)
+				(at 15.24 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1578,7 +1578,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.145 22.225 270)
+				(at 16.51 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1596,7 +1596,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.145 -28.575 90)
+				(at 17.78 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1614,7 +1614,7 @@
 				)
 			)
 			(pin power_in line
-				(at 19.685 22.225 270)
+				(at 19.05 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1632,7 +1632,7 @@
 				)
 			)
 			(pin power_in line
-				(at 19.685 -28.575 90)
+				(at 20.32 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1650,7 +1650,7 @@
 				)
 			)
 			(pin power_in line
-				(at 22.225 22.225 270)
+				(at 21.59 21.59 270)
 				(length 5.08)
 				(name "VDDQ"
 					(effects
@@ -1668,7 +1668,7 @@
 				)
 			)
 			(pin power_in line
-				(at 22.225 -28.575 90)
+				(at 22.86 -19.05 90)
 				(length 5.08)
 				(name "VSSQ"
 					(effects
@@ -1686,7 +1686,7 @@
 				)
 			)
 			(pin power_in line
-				(at 29.845 22.225 270)
+				(at 30.48 21.59 270)
 				(length 5.08)
 				(name "VREFDQ"
 					(effects
@@ -1704,7 +1704,7 @@
 				)
 			)
 			(pin power_in line
-				(at 32.385 22.225 270)
+				(at 33.02 21.59 270)
 				(length 5.08)
 				(name "VREFCA"
 					(effects
@@ -1722,7 +1722,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 40.005 0.635 180)
+				(at 40.64 0 180)
 				(length 5.08)
 				(hide yes)
 				(name "NC"
@@ -1741,7 +1741,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 40.005 -1.905 180)
+				(at 40.64 -2.54 180)
 				(length 5.08)
 				(hide yes)
 				(name "NC"
@@ -1760,7 +1760,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 40.005 -4.445 180)
+				(at 40.64 -5.08 180)
 				(length 5.08)
 				(hide yes)
 				(name "NC"
@@ -1779,7 +1779,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 40.005 -6.985 180)
+				(at 40.64 -7.62 180)
 				(length 5.08)
 				(hide yes)
 				(name "NC"
@@ -1798,7 +1798,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 40.005 -9.525 180)
+				(at 40.64 -10.16 180)
 				(length 5.08)
 				(hide yes)
 				(name "NC"
