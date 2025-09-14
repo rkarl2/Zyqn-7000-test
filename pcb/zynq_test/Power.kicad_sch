@@ -15635,22 +15635,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "914428be-5e28-4ceb-a0da-591e65429cb7")
 		(property "Reference" "U1404"
-			(at 210.82 53.34 0)
+			(at 204.47 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "LM65645RZT"
-			(at 210.82 55.88 0)
+			(at 204.47 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -16118,7 +16119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:Texas_R-PDSO-G5_DCK-5"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -16138,6 +16139,15 @@
 			)
 		)
 		(property "Description" "Single Schmitt Buffer Gate, Low-Voltage CMOS"
+			(at 210.82 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "True values" "SN74LVC1G17DCKR"
 			(at 210.82 110.49 0)
 			(effects
 				(font
@@ -16859,22 +16869,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b4e99de9-43f9-4338-a6c3-be504130a291")
 		(property "Reference" "U1401"
-			(at 74.93 52.07 0)
+			(at 70.612 52.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "LM65645RZT"
-			(at 74.93 54.61 0)
+			(at 67.31 55.372 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -16993,7 +17004,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x04_Odd_Even"
+		(property "Value" "Conn_02x05_Odd_Even"
 			(at 211.582 22.86 0)
 			(effects
 				(font
@@ -17002,7 +17013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Horizontal"
 			(at 209.55 30.48 0)
 			(effects
 				(font
@@ -17093,7 +17104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal"
 			(at 38.1 25.146 0)
 			(effects
 				(font

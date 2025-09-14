@@ -5386,7 +5386,7 @@
 		)
 		(uuid "2a15c985-6b22-45e4-88eb-d5133f90f9a5")
 	)
-	(label "CAM2.GPIO1"
+	(label "CAM2.GPIO1."
 		(at 250.19 72.39 0)
 		(effects
 			(font
@@ -5416,7 +5416,7 @@
 		)
 		(uuid "4a7d0462-93c6-42bd-89fc-8ae12f664718")
 	)
-	(label "CAM1.GPIO1"
+	(label "CAM1.GPIO1."
 		(at 200.66 146.05 0)
 		(effects
 			(font
@@ -5446,7 +5446,7 @@
 		)
 		(uuid "5754199f-91a1-436e-926f-0751ccd39d08")
 	)
-	(label "CAM1.GPIO1"
+	(label "CAM1.GPIO1."
 		(at 115.57 161.29 0)
 		(effects
 			(font
@@ -5516,7 +5516,7 @@
 		)
 		(uuid "6fa80acf-2d47-4711-80e3-4524a2db7167")
 	)
-	(label "CAM0.GPIO1"
+	(label "CAM0.GPIO1."
 		(at 200.66 148.59 0)
 		(effects
 			(font
@@ -5526,7 +5526,7 @@
 		)
 		(uuid "746f88e6-bf9c-483a-8080-16203f352c15")
 	)
-	(label "CAM2.GPIO0"
+	(label "CAM2.GPIO1."
 		(at 250.19 69.85 0)
 		(effects
 			(font
@@ -5556,7 +5556,7 @@
 		)
 		(uuid "7ad83590-c6df-4233-80f7-a42e9f6568e0")
 	)
-	(label "CAM2.GPIO1"
+	(label "CAM2.GPIO1."
 		(at 200.66 143.51 0)
 		(effects
 			(font
@@ -5656,7 +5656,7 @@
 		)
 		(uuid "9dd2d42f-4d8d-4ac2-bd28-1effdafc752c")
 	)
-	(label "CAM1.GPIO0"
+	(label "CAM1.GPIO1."
 		(at 115.57 158.75 0)
 		(effects
 			(font
@@ -5716,7 +5716,7 @@
 		)
 		(uuid "b1f74492-c8eb-4608-96d9-2786eaf940bb")
 	)
-	(label "CAM2.GPIO0"
+	(label "CAM2.GPIO1."
 		(at 238.76 143.51 180)
 		(effects
 			(font
@@ -5876,7 +5876,7 @@
 		)
 		(uuid "db040c62-2db2-4b3d-a9ec-af3ca220548c")
 	)
-	(label "CAM1.GPIO0"
+	(label "CAM1.GPIO1."
 		(at 238.76 146.05 180)
 		(effects
 			(font
@@ -5896,7 +5896,7 @@
 		)
 		(uuid "e1ddac82-a83d-4934-96d1-844638b5d969")
 	)
-	(label "CAM0.GPIO0"
+	(label "CAM0.GPIO1."
 		(at 238.76 148.59 180)
 		(effects
 			(font
@@ -5946,7 +5946,7 @@
 		)
 		(uuid "ef38c90a-a5e6-4866-b882-5b9ea19565cb")
 	)
-	(label "CAM0.GPIO1"
+	(label "CAM0.GPIO1."
 		(at 115.57 73.66 0)
 		(effects
 			(font
@@ -5956,7 +5956,7 @@
 		)
 		(uuid "ef41e1bf-1efd-41bb-8be6-f10b7f04e083")
 	)
-	(label "CAM0.GPIO0"
+	(label "CAM0.GPIO1."
 		(at 115.57 71.12 0)
 		(effects
 			(font

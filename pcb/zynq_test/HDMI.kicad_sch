@@ -3902,6 +3902,12 @@
 		(uuid "56ffdc02-26f8-4ea8-9ac0-12ddd54b5719")
 	)
 	(junction
+		(at 231.14 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57337180-5a17-4ac5-a7e6-9da7193828e9")
+	)
+	(junction
 		(at 248.92 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4044,12 +4050,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97d17359-b156-4dc0-b4c3-0ee2c13fac5e")
-	)
-	(junction
-		(at 231.14 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9830566f-8c99-456e-a849-fbdba6a91671")
 	)
 	(junction
 		(at 111.76 26.67)
@@ -4248,12 +4248,16 @@
 		(uuid "10389ddf-6808-4664-9bef-a7979c975a1c")
 	)
 	(no_connect
-		(at 219.71 148.59)
+		(at 219.71 149.86)
 		(uuid "2b365265-50e1-4dbe-ab5e-e72da52ebd3c")
 	)
 	(no_connect
 		(at 149.86 160.02)
 		(uuid "59d6a373-b92c-4c89-9e2a-facc9e521f1d")
+	)
+	(no_connect
+		(at 186.69 151.13)
+		(uuid "c77e8e69-5747-4838-8919-802b8870c649")
 	)
 	(bus_entry
 		(at 168.91 130.81)
@@ -4371,6 +4375,15 @@
 			(type default)
 		)
 		(uuid "872d4b01-75b7-479b-977c-e7a7dd5376b8")
+	)
+	(bus_entry
+		(at 168.91 148.59)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c8d73a-51b3-4bd5-a14a-e4d6a5c31231")
 	)
 	(bus_entry
 		(at 168.91 138.43)
@@ -4569,6 +4582,16 @@
 			(type default)
 		)
 		(uuid "0749cb00-099b-4337-b38f-f54f44088539")
+	)
+	(bus
+		(pts
+			(xy 168.91 148.59) (xy 168.91 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0902f228-8a72-4705-9fc9-89b67a349430")
 	)
 	(wire
 		(pts
@@ -4932,7 +4955,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 148.59) (xy 208.28 148.59)
+			(xy 219.71 149.86) (xy 208.28 149.86)
 		)
 		(stroke
 			(width 0)
@@ -5019,6 +5042,16 @@
 			(type default)
 		)
 		(uuid "270a7fcd-2b44-4917-853a-e4ca8f20f2a0")
+	)
+	(wire
+		(pts
+			(xy 231.14 104.14) (xy 231.14 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "272cd5a0-46b3-44ed-bce2-1a5d63bee6a4")
 	)
 	(wire
 		(pts
@@ -5422,7 +5455,7 @@
 	)
 	(bus
 		(pts
-			(xy 168.91 146.05) (xy 168.91 151.13)
+			(xy 168.91 146.05) (xy 168.91 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5759,16 +5792,6 @@
 			(type default)
 		)
 		(uuid "5a73f8b2-5b13-4a1d-a743-e29574f49b83")
-	)
-	(wire
-		(pts
-			(xy 231.14 106.68) (xy 231.14 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a813286-76e3-4cf6-a019-535387f973b6")
 	)
 	(wire
 		(pts
@@ -7512,6 +7535,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 106.68) (xy 234.95 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c949dfa4-a813-4c5a-815e-06b0fbd9876f")
+	)
+	(wire
+		(pts
 			(xy 274.32 153.67) (xy 274.32 154.94)
 		)
 		(stroke
@@ -7649,6 +7682,16 @@
 			(type default)
 		)
 		(uuid "d1f6dbc1-7ba5-4255-b049-2811f150a9a4")
+	)
+	(wire
+		(pts
+			(xy 171.45 151.13) (xy 186.69 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2567fee-aa27-44f5-9dff-9cdbdd9af26f")
 	)
 	(wire
 		(pts
@@ -8002,7 +8045,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 104.14) (xy 234.95 104.14)
+			(xy 231.14 106.68) (xy 234.95 106.68)
 		)
 		(stroke
 			(width 0)
@@ -8970,8 +9013,18 @@
 		)
 		(uuid "d8d55e9d-50cd-4544-8526-5a8b8a6d6b3b")
 	)
+	(label "HDMI.RX.HDP"
+		(at 186.69 151.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dca88ca6-8ce2-414d-a375-0bab98a06d7f")
+	)
 	(label "RX_MODE"
-		(at 208.28 148.59 0)
+		(at 208.28 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14626,7 +14679,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 234.95 104.14 0)
+		(at 234.95 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14634,7 +14687,7 @@
 		(dnp no)
 		(uuid "8f71d410-737e-43b2-aad4-2dfb4dfb4b94")
 		(property "Reference" "#PWR0824"
-			(at 234.95 107.95 0)
+			(at 234.95 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14643,7 +14696,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 238.76 103.378 0)
+			(at 238.76 104.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14651,7 +14704,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.95 104.14 0)
+			(at 234.95 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14660,7 +14713,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 104.14 0)
+			(at 234.95 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14669,7 +14722,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 234.95 104.14 0)
+			(at 234.95 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)

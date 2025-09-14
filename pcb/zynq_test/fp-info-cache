@@ -1,4 +1,4 @@
-26431503839875449
+26438531504343487
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105636,3 +105636,31 @@ BGA96C80P9X16_1400X800X120
 0
 96
 96
+ethernet
+ARJM11C7-502-AB-ER2-T_ABR
+
+ARJM11C7-502-AB-ER2-T 
+0
+16
+16
+ethernet
+VQFN48_PSA_5p05X5p05EPAD_MCH
+
+LAN8830T-V/PSA 
+0
+49
+49
+ethernet
+VQFN48_PSA_5p05X5p05EPAD_MCH-L
+
+LAN8830T-V/PSA 
+0
+49
+49
+ethernet
+VQFN48_PSA_5p05X5p05EPAD_MCH-M
+
+LAN8830T-V/PSA 
+0
+49
+49

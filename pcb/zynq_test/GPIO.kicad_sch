@@ -10,4 +10,59 @@
 		(rev "A")
 	)
 	(lib_symbols)
+	(hierarchical_label "MIO0{0,[7..13]}"
+		(shape bidirectional)
+		(at 44.45 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0280b516-217e-41d1-a2ca-8789c00a0244")
+	)
+	(hierarchical_label "MIO1{[46..51]}"
+		(shape bidirectional)
+		(at 44.45 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4ca2a870-bf13-4d23-a95d-8a28e223b3b4")
+	)
+	(hierarchical_label "GPIO2.[0..11]"
+		(shape input)
+		(at 44.45 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d0ce6e5-b0d3-4773-981d-c43ec3abcf96")
+	)
+	(hierarchical_label "GPIO0.[0..24]"
+		(shape input)
+		(at 44.45 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98a0da1c-3227-4c2d-af31-0824127bdcc3")
+	)
+	(hierarchical_label "GPIO1.[0..11]"
+		(shape input)
+		(at 44.45 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a62fb049-643a-4f00-b24f-18210c353f86")
+	)
 )

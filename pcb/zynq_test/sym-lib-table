@@ -6,4 +6,5 @@
   (lib (name "camera")(type "KiCad")(uri "${KIPRJMOD}/library/camera/1-1734248-5.kicad_sym")(options "")(descr ""))
   (lib (name "Ethernet")(type "KiCad")(uri "${KIPRJMOD}/library/LAN8830T_V_PSA/KiCADv6/2025-08-30_23-41-14.kicad_sym")(options "")(descr ""))
   (lib (name "hdmi")(type "KiCad")(uri "${KIPRJMOD}/library/hdmi/KiCADv6/2025-09-01_17-33-09.kicad_sym")(options "")(descr ""))
+  (lib (name "ethernetJack")(type "KiCad")(uri "${KIPRJMOD}/library/LAN8830T_V_PSA/KiCADv6/2025-09-14_17-54-36.kicad_sym")(options "")(descr ""))
 )

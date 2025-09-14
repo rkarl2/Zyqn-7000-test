@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 17,
+    "active_layer": 8,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -13,13 +13,11 @@
       "+3V3",
       "/Zynq Mio/QSPI0.SCLK.Z",
       "/Zynq Dram/DDR_CTR.CAS",
-      "unconnected-(J1101-PadSH)_1",
       "/Zynq Mio/ETH0.TX-CLK.Z",
       "/Zynq Dram/DDR_CTR.CS",
       "/Zynq Dram/DDR_ADDR4",
       "/Zynq Dram/DDR_ADDR5",
       "/Zynq Dram/DDR_ADDR2",
-      "/Zynq Mio/MIO0.9",
       "+1V35",
       "GND",
       "/Zynq Dram/DDR_ADDR6",
@@ -74,7 +72,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55557fd5_ffffffff",
+    "visible_layers": "00000000_00000000_55557fd5_fffffbaf",
     "zone_display_mode": 0
   },
   "git": {
@@ -97,6 +95,10 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -109,7 +111,11 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11,
+      12,
+      13
     ],
     "col_widths": [
       162,
@@ -120,6 +126,10 @@
       91,
       91,
       71,
+      91,
+      91,
+      91,
+      91,
       91,
       91
     ],
