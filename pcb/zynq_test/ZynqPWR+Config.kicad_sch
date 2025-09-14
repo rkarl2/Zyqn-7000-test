@@ -5,8 +5,9 @@
 	(uuid "5c817174-408e-4e7b-b694-3167be79a50d")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "Zynq Power+Config")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Device:C"
@@ -18571,7 +18572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 114.3 87.63 0)
 			(effects
 				(font
@@ -19523,7 +19524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 158.75 116.84 0)
 			(effects
 				(font
@@ -20813,7 +20814,7 @@
 		(dnp no)
 		(uuid "d4d0db16-728c-42fb-93c2-8bd3a6d31b5b")
 		(property "Reference" "U202"
-			(at 17.78 167.386 0)
+			(at 57.912 167.386 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20821,7 +20822,7 @@
 			)
 		)
 		(property "Value" "XC7Z020-2CLG400I"
-			(at 20.32 167.386 0)
+			(at 57.912 164.846 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22427,7 +22428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 213.36 106.68 0)
 			(effects
 				(font
@@ -22631,7 +22632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 255.778 106.934 0)
 			(effects
 				(font

@@ -73,17 +73,17 @@
 			)
 		)
 		(symbol "TDP1204RNQR_0_1"
-			(pin output line
+			(pin input line
 				(at -21.59 -1.27 0)
 				(length 2.54)
-				(name "OUT_D2P"
+				(name "IN_D2P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "40"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -91,17 +91,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -3.81 0)
 				(length 2.54)
-				(name "OUT_D2N"
+				(name "IN_D2N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "39"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -109,17 +109,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -6.35 0)
 				(length 2.54)
-				(name "OUT_D1P"
+				(name "IN_D1P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "37"
+				(number "12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -127,17 +127,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -8.89 0)
 				(length 2.54)
-				(name "OUT_D1N"
+				(name "IN_D1N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "36"
+				(number "13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -145,17 +145,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -11.43 0)
 				(length 2.54)
-				(name "OUT_D0P"
+				(name "IN_D0P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "34"
+				(number "15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -163,17 +163,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -13.97 0)
 				(length 2.54)
-				(name "OUT_D0N"
+				(name "IN_D0N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "33"
+				(number "16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -181,17 +181,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -16.51 0)
 				(length 2.54)
-				(name "OUT_CLKP"
+				(name "IN_CLKP"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "31"
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -199,17 +199,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -21.59 -19.05 0)
 				(length 2.54)
-				(name "OUT_CLKN"
+				(name "IN_CLKN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "30"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -397,24 +397,6 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 0 -63.5 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 8.89 7.62 270)
 				(length 2.54)
@@ -487,17 +469,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -1.27 180)
 				(length 2.54)
-				(name "IN_D2P"
+				(name "OUT_D2P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "40"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -505,17 +487,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -3.81 180)
 				(length 2.54)
-				(name "IN_D2N"
+				(name "OUT_D2N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "10"
+				(number "39"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -523,17 +505,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -6.35 180)
 				(length 2.54)
-				(name "IN_D1P"
+				(name "OUT_D1P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "12"
+				(number "37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -541,17 +523,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -8.89 180)
 				(length 2.54)
-				(name "IN_D1N"
+				(name "OUT_D1N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "13"
+				(number "36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -559,17 +541,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -11.43 180)
 				(length 2.54)
-				(name "IN_D0P"
+				(name "OUT_D0P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "15"
+				(number "34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -577,17 +559,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -13.97 180)
 				(length 2.54)
-				(name "IN_D0N"
+				(name "OUT_D0N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "16"
+				(number "33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -595,17 +577,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -16.51 180)
 				(length 2.54)
-				(name "IN_CLKP"
+				(name "OUT_CLKP"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "18"
+				(number "31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -613,17 +595,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 21.59 -19.05 180)
 				(length 2.54)
-				(name "IN_CLKN"
+				(name "OUT_CLKN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "19"
+				(number "30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -817,6 +799,24 @@
 					)
 				)
 				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -63.5 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1055,17 +1055,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -21.59 -25.4 0)
 				(length 2.54)
-				(name "HPD_IN"
+				(name "HPD_OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "32"
+				(number "11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1192,24 +1192,6 @@
 					)
 				)
 				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_out line
-				(at 0 -58.42 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1469,17 +1451,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 21.59 -25.4 180)
 				(length 2.54)
-				(name "HPD_OUT"
+				(name "HPD_IN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "11"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1627,6 +1609,24 @@
 					)
 				)
 				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -58.42 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
 					(effects
 						(font
 							(size 1.27 1.27)

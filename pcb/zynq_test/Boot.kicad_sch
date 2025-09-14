@@ -5,8 +5,9 @@
 	(uuid "8e7bc681-b786-4a0b-9506-3ca453f269be")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "Boot")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det1"
@@ -3200,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 74.93 27.94 0)
 			(effects
 				(font
@@ -3607,7 +3608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 171.45 101.6 0)
 			(effects
 				(font
@@ -4292,7 +4293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 83.82 27.94 0)
 			(effects
 				(font
@@ -4424,7 +4425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 119.38 33.02 0)
 			(effects
 				(font
@@ -4560,7 +4561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 111.76 93.98 0)
 			(effects
 				(font

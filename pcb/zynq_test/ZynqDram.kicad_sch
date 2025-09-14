@@ -5,8 +5,9 @@
 	(uuid "f79ff689-423c-4357-a651-f1ec596bbc92")
 	(paper "A3")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "DDR3")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Device:C"

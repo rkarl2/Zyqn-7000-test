@@ -5,21 +5,73 @@
 	(uuid "0637578d-4ce5-4d31-b973-2de977269ea5")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols)
+	(no_connect
+		(at 212.09 41.91)
+		(uuid "21dd16c4-bc36-4bc3-b1f6-8fb0f3bf756e")
+	)
 	(no_connect
 		(at 149.86 67.31)
 		(uuid "2be5040a-3b66-4c35-8b46-9b73e834eea9")
 	)
 	(no_connect
+		(at 212.09 82.55)
+		(uuid "3b8ac578-fecf-4151-988e-81c0ab2505ec")
+	)
+	(no_connect
+		(at 209.55 144.78)
+		(uuid "42b883a6-4aa1-4fcd-9bcb-3ccef63e1482")
+	)
+	(no_connect
+		(at 212.09 48.26)
+		(uuid "4cc9128f-5904-4f7d-9200-b7bb5a63e0b3")
+	)
+	(no_connect
+		(at 212.09 45.72)
+		(uuid "6e8e9f86-0ac3-4971-ba9b-1cf86b008606")
+	)
+	(no_connect
+		(at 212.09 85.09)
+		(uuid "714710b2-c667-48b3-b085-3d990c2ac7f8")
+	)
+	(no_connect
 		(at 149.86 64.77)
 		(uuid "92a0d312-33f2-416c-a196-a22e1820e567")
 	)
+	(no_connect
+		(at 212.09 87.63)
+		(uuid "95ed13c7-1f29-49b0-91a0-1d1e5b829c2e")
+	)
+	(no_connect
+		(at 105.41 138.43)
+		(uuid "a33efd38-ef1d-437b-acc1-6b954544fd6b")
+	)
+	(no_connect
+		(at 212.09 39.37)
+		(uuid "b067a629-a2eb-4752-aa9d-593915ee3573")
+	)
+	(no_connect
+		(at 212.09 21.59)
+		(uuid "bd4b10af-1798-460a-be0d-a5827c9d2b5f")
+	)
+	(no_connect
+		(at 212.09 26.67)
+		(uuid "c7dacc0f-b45b-4541-a003-82c3f833b98a")
+	)
+	(no_connect
+		(at 105.41 147.32)
+		(uuid "f18450ab-0910-462e-8029-0ec41f056f9d")
+	)
+	(no_connect
+		(at 212.09 24.13)
+		(uuid "fa1595eb-f5b1-4564-8698-b95a93881bca")
+	)
 	(bus
 		(pts
-			(xy 175.26 82.55) (xy 175.26 73.66)
+			(xy 175.26 101.6) (xy 175.26 73.66)
 		)
 		(stroke
 			(width 0)
@@ -49,6 +101,26 @@
 	)
 	(bus
 		(pts
+			(xy 177.8 71.12) (xy 149.86 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ae09acd-4704-40e1-8011-9bd1e111f9ed")
+	)
+	(bus
+		(pts
+			(xy 177.8 90.17) (xy 177.8 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "836cad5f-df55-4f74-8d45-9278a312525a")
+	)
+	(bus
+		(pts
 			(xy 172.72 78.74) (xy 172.72 134.62)
 		)
 		(stroke
@@ -69,7 +141,7 @@
 	)
 	(bus
 		(pts
-			(xy 149.86 71.12) (xy 212.09 71.12)
+			(xy 177.8 90.17) (xy 212.09 90.17)
 		)
 		(stroke
 			(width 0)
@@ -99,7 +171,7 @@
 	)
 	(bus
 		(pts
-			(xy 175.26 82.55) (xy 212.09 82.55)
+			(xy 175.26 101.6) (xy 212.09 101.6)
 		)
 		(stroke
 			(width 0)
@@ -250,6 +322,48 @@
 		)
 	)
 	(sheet
+		(at 33.02 130.81)
+		(size 43.18 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "91a8e6e0-7d7c-40fc-bd4c-c143d11e444e")
+		(property "Sheetname" "Power"
+			(at 33.02 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 33.02 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 105.41 90.17)
 		(size 44.45 34.29)
 		(exclude_from_sim no)
@@ -286,6 +400,47 @@
 			(project "zynq_test"
 				(path "/0637578d-4ce5-4d31-b973-2de977269ea5"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 55.88)
+		(size 27.94 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3791fb4-39dd-4493-a74d-c15158756684")
+		(property "Sheetname" "GPIO"
+			(at 212.09 59.69 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPIO.kicad_sch"
+			(at 212.344 72.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5"
+					(page "13")
 				)
 			)
 		)
@@ -443,7 +598,7 @@
 		)
 	)
 	(sheet
-		(at 212.09 57.15)
+		(at 212.09 76.2)
 		(size 27.94 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -458,7 +613,7 @@
 		)
 		(uuid "c2781f92-5ea5-4e37-80b2-cda210986130")
 		(property "Sheetname" "ETHERNET"
-			(at 212.09 61.214 0)
+			(at 212.09 80.264 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -467,7 +622,7 @@
 			)
 		)
 		(property "Sheetfile" "ethernet.kicad_sch"
-			(at 212.09 74.168 0)
+			(at 212.09 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -476,7 +631,7 @@
 			)
 		)
 		(pin "CLK_125M" output
-			(at 212.09 66.04 180)
+			(at 212.09 85.09 180)
 			(uuid "adba3d75-259c-4de1-9890-e6ddfd75e3f5")
 			(effects
 				(font
@@ -486,7 +641,7 @@
 			)
 		)
 		(pin "ETH0_INT" output
-			(at 212.09 68.58 180)
+			(at 212.09 87.63 180)
 			(uuid "5fc3647e-8394-4978-ae44-086ec52fb57b")
 			(effects
 				(font
@@ -496,7 +651,7 @@
 			)
 		)
 		(pin "ETH0_RST" output
-			(at 212.09 63.5 180)
+			(at 212.09 82.55 180)
 			(uuid "be8f113c-190c-4f6a-bbf1-2274f706e3b7")
 			(effects
 				(font
@@ -506,7 +661,7 @@
 			)
 		)
 		(pin "ETH0{ETH}" bidirectional
-			(at 212.09 71.12 180)
+			(at 212.09 90.17 180)
 			(uuid "5b2b3fb5-27bd-4f77-8def-9f70d54b8e83")
 			(effects
 				(font
@@ -747,7 +902,7 @@
 		)
 	)
 	(sheet
-		(at 212.09 76.2)
+		(at 212.09 95.25)
 		(size 27.94 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -762,7 +917,7 @@
 		)
 		(uuid "f230d79d-5f9c-4b40-9d06-9505b0c2c40c")
 		(property "Sheetname" "USB_OTG"
-			(at 211.836 80.01 0)
+			(at 211.836 99.06 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -771,7 +926,7 @@
 			)
 		)
 		(property "Sheetfile" "usb_otg.kicad_sch"
-			(at 212.344 86.36 0)
+			(at 212.344 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,7 +935,7 @@
 			)
 		)
 		(pin "USB0{USB}" bidirectional
-			(at 212.09 82.55 180)
+			(at 212.09 101.6 180)
 			(uuid "6e28a68a-ad12-44d9-a158-c2d44412d0bd")
 			(effects
 				(font
@@ -803,4 +958,78 @@
 		)
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "SheetTemplate.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WB+CMUTADbcWSEAtxsWHGQdlqaixJWgMmfh2tCZyKzY5HXQcxNVVbcAEAFQAEoAUgAh/B3O
+				zZO2eDm5A2l+46HBUjm78+AluXhDg5W0/XTHL/kXAICAICR6H6dUVJrqgq4JQ1Vn/F120TkGjFJq
+				1VlbxHfMPioAAoLxQ9KA3Xc/hV/y995Oy9ae1lTKn3i/85Dn7GLG34c9e1afD4dee/j32zvfoCjC
+				ueuqX3QQCH9dGxS9ziktqxXVkhXrz92PVdUO6sT/PIPwP/YCI7dgWNUQKhEUm1A2zqJlNI2MsUFQ
+				BCvtnAp59TWlwqa0S9bQaBiO21CEXvh3jZyzKfuL/rVpc38UeWxtmpmq7el53qRWAfAi3tC2tUcc
+				qmjVAQGB4bqqtZZEPC5Z5aJpD+5SSEsTclJJNtEimyO8ju+G3d82WEteFENIRNUil+1SKXj73Tvc
+				4JAagFvV34Ey3nT2UFexaJWs4qfLgSH2GlG3jGYJdaAhPaUYmhGRJEkKHYBExMSqG7ZnYf/UXeFb
+				IM2oukJWcjKeZVCGjTWMhUy8XDwRWYjHQURb5Ga0hfkSKue0mhx/YX36Cj3i5k7jAIwo2xZhBro3
+				3UJM24YDkwebfhQeFrxa1f4oKusQJ7gFDGksCLsJASZbNhEyv5f8F9N6PInJsbUuBBQRVByoDeFy
+				JevLuxSpJzWMaOipJyqK1lTks6dcoqx3tGoqDQ1idIc0H6qUvHACH/z2BfdoKcFOmzVa7aKX/pxu
+				Us+lXRAQQiqSU4KpmjACDAjkRIe0IQ0F66JHi1cRBg7mMtNBZR4rOUlqRU4GEwnkdE7s7XRoUefq
+				w1j/C89DpJds9CEdA1EF|
+			)
+			(checksum "F72A94913C597F4C21E195BABBAA6AB8")
+		)
+		(file
+			(name "SheetTemplate2.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WB+COUTAJbcWiEAtxsWHGQdlqaixJWgMmfh2tCZyKzY5HXQcxNVVbcAEAFSAEsAVADYC+Hv
+				cG6etMXLyR1I8xsPDZbK2Z0HL8nFGxqspO2nO37JvwAABAQh0fs4paLSVBd0TRiqOuPvsovOMWCU
+				UqvO2iK+Y/ZRARAQjB+SBuy++ykEFa36S/7e22nZ2tOaSvkT73ce8pxdzPj7sGfP6vPh0GsP/357
+				5xsURTh3XfWLDgLhr2uDotc5pWW1olqyYv25+7Gq2kGd+J9nEP4PiLplNMvILRhWNYRKBMUmlI2z
+				aBlNI2NsEBTBSjunQl59TamwKe2SNTQahuM2FKEX/l0j52zK/qJ/bdrcH0UeW5tmpmp7ep43qVUA
+				vIg3tG3tEYcCAYHhuqq1lkQ8LlnlomkP7lJISxNyUk2STbTI5giv47th97cNFJNWpROTCERf0tIi
+				l+1SKXj73Tvc4JAagFvV34Ey3nT2UFexaJWs4qfLgSH2OnWgIT2lGBoZkSRJCh2ARMTEqhu2Z2H/
+				1F3hWyDNqLpCVnIynmVQho01jIVMvFw8EVmIx0FEW+TILiLsQqhiTsvK8ReuT5/Qs2jubByoEWVg
+				Eaagm6ZbxbSdODB5sOlH4WHBq1Xtj6KyDnGCW8CQxoKwmxBgsmUTIfN7yX8xrceTmBxb60JAEUHF
+				gdoQLleyvrxLkXpSw4iGnnqiomhNRT57yiXKekerptLQIEZ3SPOhSskLJ/DBb19wj5YS7LRZw2pn
+				vvTndJN6Lu2CgBBSkZwSTNWEEWBAICc6pA1pKFgXPVq8ijBwMJeZDkrm2ZKbpPbmZDCRQE7nxN5O
+				hxZ1rj6M9b/wPER6yUYf0jEQVQ==|
+			)
+			(checksum "9584786EC5C298BD25CAC6C84A54774E")
+		)
+		(file
+			(name "SheetTemplate3.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WB+CMUTACacWSEAtxsWHGQdlqaixFXh71gD3OU5ocDu5XXQcxNVVbcAEAFQAEoAUgAh/B3O
+				zZO2eDm5A3G/8dBgqZzdefCSXLyhwUrafrrjl/wLAEBAEBK9j1MuKq66oHNhqOqMv8suOsdwUUqt
+				OmuL+I7ZRwVAQDB+SBzYffdTCF/y995Oy9ae1lTKn3i/85Dn7GLG34c9e1afD4dee/j32zvfoCjC
+				ueuqX3QQCH9dGxS9ziktqxfVkvXqz92PVdUO6sT/PIPwP/YCI79cV9URKhH0olS07ZJpOAfW0CIo
+				gpV2zoVMdGLKhU1lGMzBZZlt01CEZvh3jpyzKfuL/rVpc38UeWxtipmq7el53qRWAfAi3tC2tUcc
+				qmjVAQGBIVGttSQCgsEsmCyDbImFtFQhJ51glEyiPcL7+G7Y/W3DNaWlF0IiaibBaJhKwdvv3tkG
+				h9QA1Kr+DpTxprOHOssls2AWP90NDLHXiKppskt2oCE9pRiaEZEkSQodgETExKobPGQ2+H86qvAs
+				kGagsiJWcjGeFVAyjTWMhUy8XDwRWYjHQURb5Ga0hfkSKue0mhx/YX36Cj3i5k7jAIwo2xZhBro3
+				3UJM24YDkwebfhQeFrxa1f4oKusQJ7gFDGksCLsJASZbNhEyv5f8F9N6PInJsbUuBBQRVByoDeFy
+				JevLuxSpJzWMaOipJyqK1lTks6dcoqx3tGoqDQ1idIc0H6qUvHACH/z2BfdoKcFOmzVa7aKX/pxu
+				Us+lXRAQQiqSU4KpmjACDAjkRIe0IQ0F66JHi1cRBg7mMtNBZR4rOUlqRU4GEwnkdE7s7XRoUefq
+				w1j/C89DpJds9CEdA1EF|
+			)
+			(checksum "C4999FFD9CF6A699CD7F3B0330C2196E")
+		)
+		(file
+			(name "backgroundTemplate.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WB+CMUTACacWSEAtxsWHGQdlqaixFXh71gD3OU5ocDu5XXQcxNVVbcAEAFQAEoAUgAh/B3O
+				zZO2eDm5A3G/8dBgqZzdefCSXLyhwUrafrrjl/wLAEBAEBK9j1MuKq66oHNhqOqMv8suOsdwUUqt
+				OmuL+I7ZRwVAQDB+SBzYffdTCF/y995Oy9ae1lTKn3i/85Dn7GLG34c9e1afD4dee/j32zvfoCjC
+				ueuqX3QQCH9dGxS9ziktqxfVkvXqz92PVdUO6sT/PIPwP/YCI79cV9URKhH0olS07ZJpOAfW0CIo
+				gpV2zoVMdGLKhU1lGMzBZZlt01CEZvh3jpyzKfuL/rVpc38UeWxtipmq7el53qRWAfAi3tC2tUcc
+				qmjVAQGBIVGttSQCgsEsmCyDbImFtFQhJ51glEyiPcL7+G7Y/W3DNaWlF0IiaibBaJhKwdvv3tkG
+				h9QA1Kr+DpTxprOHOssls2AWP90NDLHXiKppskt2oCE9pRiaEZEkSQodgETExKobPGQ2+H86qvAs
+				kGagsiJWcjGeFVAyjTWMhUy8XDwRWYjHQURb5Ga0hfkSKue0mhx/YX36Cj3i5k7jAIwo2xZhBro3
+				3UJM24YDkwebfhQeFrxa1f4oKusQJ7gFDGksCLsJASZbNhEyv5f8F9N6PInJsbUuBBQRVByoDeFy
+				JevLuxSpJzWMaOipJyqK1lTks6dcoqx3tGoqDQ1idIc0H6qUvHACH/z2BfdoKcFOmzVa7aKX/pxu
+				Us+lXRAQQiqSU4KpmjACDAjkRIe0IQ0F66JHi1cRBg7mMtNBZR4rOUlqRU4GEwnkdE7s7XRoUefq
+				w1j/C89DpJds9CEdA1EF|
+			)
+			(checksum "C4999FFD9CF6A699CD7F3B0330C2196E")
+		)
+	)
 )

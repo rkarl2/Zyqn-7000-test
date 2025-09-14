@@ -5,8 +5,9 @@
 	(uuid "3e180f57-a3d3-44f5-b842-e11870116df0")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "HDMI")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Connector:HDMI_A"
@@ -1517,24 +1518,6 @@
 						)
 					)
 				)
-				(pin power_out line
-					(at 0 -63.5 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "41"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin power_in line
 					(at 8.89 7.62 270)
 					(length 2.54)
@@ -1944,6 +1927,24 @@
 						)
 					)
 				)
+				(pin power_in line
+					(at 0 -63.5 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
@@ -2175,17 +2176,17 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -21.59 -25.4 0)
 					(length 2.54)
-					(name "HPD_IN"
+					(name "HPD_OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "32"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2312,24 +2313,6 @@
 						)
 					)
 					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 0 -58.42 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "41"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2589,17 +2572,17 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 21.59 -25.4 180)
 					(length 2.54)
-					(name "HPD_OUT"
+					(name "HPD_IN"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "11"
+					(number "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2747,6 +2730,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -58.42 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3584,7 +3585,7 @@
 	)
 	(rectangle
 		(start 12.7 99.06)
-		(end 176.53 198.12)
+		(end 201.93 198.12)
 		(stroke
 			(width 0)
 			(type default)
@@ -6451,7 +6452,7 @@
 	)
 	(bus
 		(pts
-			(xy 168.91 127) (xy 171.45 127)
+			(xy 168.91 127) (xy 176.53 127)
 		)
 		(stroke
 			(width 0)
@@ -9091,7 +9092,7 @@
 	)
 	(hierarchical_label "HDMI.RX{HDMI}"
 		(shape input)
-		(at 171.45 127 0)
+		(at 176.53 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9289,7 +9290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 248.666 124.714 0)
 			(effects
 				(font
@@ -9527,7 +9528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WQFN40_RNQ_TEX"
+		(property "Footprint" "Package_DFN_QFN:Texas_RNQ0040A_WQFN-40-1EP_6x4mm_P0.4mm_EP4.7x2.7mm"
 			(at 128.27 134.62 0)
 			(effects
 				(font
@@ -10208,7 +10209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 270.256 146.304 0)
 			(effects
 				(font
@@ -10274,7 +10275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 62.484 14.224 0)
 			(effects
 				(font
@@ -10340,7 +10341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 148.844 112.014 0)
 			(effects
 				(font
@@ -10475,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 87.376 14.224 0)
 			(effects
 				(font
@@ -11209,7 +11210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 244.856 38.354 0)
 			(effects
 				(font
@@ -11274,7 +11275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 270.256 124.714 0)
 			(effects
 				(font
@@ -11611,7 +11612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 266.446 59.944 0)
 			(effects
 				(font
@@ -11743,7 +11744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 232.156 38.354 0)
 			(effects
 				(font
@@ -12012,7 +12013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 255.016 38.354 0)
 			(effects
 				(font
@@ -12077,7 +12078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 232.156 59.944 0)
 			(effects
 				(font
@@ -13133,7 +13134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 255.016 59.944 0)
 			(effects
 				(font
@@ -13542,7 +13543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 258.826 124.714 0)
 			(effects
 				(font
@@ -13686,7 +13687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WQFN40_RNQ_TEX"
+		(property "Footprint" "Package_DFN_QFN:Texas_RNQ0040A_WQFN-40-1EP_6x4mm_P0.4mm_EP4.7x2.7mm"
 			(at 43.942 20.574 0)
 			(effects
 				(font
@@ -15291,7 +15292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 235.966 146.304 0)
 			(effects
 				(font
@@ -15563,7 +15564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 235.966 124.714 0)
 			(effects
 				(font
@@ -15903,7 +15904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 249.936 94.234 0)
 			(effects
 				(font
@@ -16655,7 +16656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 258.826 146.304 0)
 			(effects
 				(font
@@ -17225,7 +17226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 244.856 59.944 0)
 			(effects
 				(font
@@ -17569,7 +17570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 123.444 103.124 0)
 			(effects
 				(font
@@ -17844,7 +17845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 266.446 38.354 0)
 			(effects
 				(font
@@ -18115,7 +18116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 248.666 146.304 0)
 			(effects
 				(font

@@ -823,7 +823,15 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
+    "page_layout_descr_file": "kicad-embed://backgroundTemplate.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -883,6 +891,14 @@
     [
       "bfda2b81-ae83-4c43-9b35-8cba40abfb88",
       "Cameras"
+    ],
+    [
+      "b3791fb4-39dd-4493-a74d-c15158756684",
+      "GPIO"
+    ],
+    [
+      "91a8e6e0-7d7c-40fc-bd4c-c143d11e444e",
+      "Power"
     ]
   ],
   "text_variables": {}

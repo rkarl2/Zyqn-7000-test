@@ -10,7 +10,7 @@
       "Net-(J801-SDA)",
       "+1V8",
       "/Zynq Dram/DDR_CTR.WE",
-      "+3.3V",
+      "+3V3",
       "/Zynq Mio/QSPI0.SCLK.Z",
       "/Zynq Dram/DDR_CTR.CAS",
       "unconnected-(J1101-PadSH)_1",

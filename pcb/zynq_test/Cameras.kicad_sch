@@ -5,8 +5,9 @@
 	(uuid "3da871b3-d637-4b6d-98a2-7b4582b11af6")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "Camera")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
@@ -4347,16 +4348,6 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 86.36) (xy 379.73 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9541178-e585-4814-a926-778031bc7802")
-	)
-	(wire
-		(pts
 			(xy 85.09 95.25) (xy 90.17 95.25)
 		)
 		(stroke
@@ -6525,7 +6516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 110.49 74.93 0)
 			(effects
 				(font
@@ -7682,7 +7673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 204.724 151.384 0)
 			(effects
 				(font
@@ -9373,7 +9364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 248.158 74.93 0)
 			(effects
 				(font
@@ -10045,7 +10036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 110.49 162.56 0)
 			(effects
 				(font

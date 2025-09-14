@@ -5,8 +5,9 @@
 	(uuid "72eb0b4b-d3b7-47a7-adda-21896a8c7074")
 	(paper "A4")
 	(title_block
-		(date "2025-09-06")
-		(rev "v1.0")
+		(title "JTAG Proggrammer")
+		(date "2025-09-13")
+		(rev "A")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x06_Pin"
@@ -7745,7 +7746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 194.056 82.55 0)
 			(effects
 				(font
@@ -8233,7 +8234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 227.838 100.584 0)
 			(effects
 				(font
@@ -8711,7 +8712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 234.95 20.32 0)
 			(effects
 				(font
@@ -9383,7 +9384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 98.298 21.082 0)
 			(effects
 				(font
@@ -9869,7 +9870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 236.22 135.382 0)
 			(effects
 				(font
@@ -10612,7 +10613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 54.61 25.4 0)
 			(effects
 				(font
@@ -10972,7 +10973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 176.53 41.91 0)
 			(effects
 				(font
