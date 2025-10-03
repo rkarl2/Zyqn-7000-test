@@ -53538,7 +53538,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ARJM11C7-502-AB-ER2-T_ABR"
+		(property "Footprint" "ethernet:ARJM11C7-502-AB-ER2-T_ABR"
 			(at 255.778 14.986 0)
 			(effects
 				(font

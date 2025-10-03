@@ -1,0 +1,110 @@
+|***************************************************************************
+| COMPONENT: MT41K256M16TW (96-Ball FBGA, x16, 8mm X 14mm)
+|***************************************************************************
+|
+[Component]     MT41K256M16TW   
+[Package Model] v00h_96ball_pkg 
+[Manufacturer]  Micron Technology,Inc.
+[Package]
+|              typ         min          max
+R_pkg          356.04m     224.03m      506.70m
+L_pkg          2.17nH      1.08nH       3.54nH
+C_pkg          0.51pF      0.39pF       0.66pF
+|
+[Pin]          signal_name model_name   R_pin        L_pin        C_pin
+A1             VDDQ        POWER
+A2             DQ13        DQ           407.65m      2.19nH       0.61pF
+A3             DQ15        DQ           349.46m      1.81nH       0.54pF
+A7             DQ12        DQ           340.14m      1.71nH       0.52pF
+A8             VDDQ        POWER
+A9             VSS         GND
+B1             VSSQ        GND
+B2             VDD         POWER
+B3             VSS         GND
+B7             UDQS#       DQS          327.79m      1.84nH       0.50pF
+B8             DQ14        DQ           411.24m      1.99nH       0.60pF
+B9             VSSQ        GND
+C1             VDDQ        POWER
+C2             DQ11        DQ           373.04m      1.75nH       0.53pF
+C3             DQ9         DQ           300.71m      1.47nH       0.47pF
+C7             UDQS        DQS          328.94m      1.82nH       0.47pF
+C8             DQ10        DQ           363.20m      1.81nH       0.50pF
+C9             VDDQ        POWER
+D1             VSSQ        GND
+D2             VDDQ        POWER
+D3             UDM         DM           273.39m      1.42nH       0.46pF
+D7             DQ8         DQ           261.09m      1.27nH       0.45pF
+D8             VSSQ        GND
+D9             VDD         POWER
+E1             VSS         GND
+E2             VSSQ        GND
+E3             DQ0         DQ           228.97m      1.08nH       0.42pF
+E7             LDM         DM           224.03m      1.14nH       0.43pF
+E8             VSSQ        GND
+E9             VDDQ        POWER
+F1             VDDQ        POWER
+F2             DQ2         DQ           292.38m      1.44nH       0.45pF
+F3             LDQS        DQS          224.44m      1.23nH       0.39pF
+F7             DQ1         DQ           278.30m      1.31nH       0.43pF
+F8             DQ3         DQ           294.77m      1.37nH       0.47pF
+F9             VSSQ        GND
+G1             VSSQ        GND
+G2             DQ6         DQ           273.36m      1.37nH       0.41pF
+G3             LDQS#       DQS          226.71m      1.24nH       0.39pF
+G7             VDD         POWER
+G8             VSS         GND
+G9             VSSQ        GND
+H1             VREFDQ      POWER
+H2             VDDQ        POWER
+H3             DQ4         DQ           308.85m      1.52nH       0.40pF
+H7             DQ7         DQ           308.13m      1.54nH       0.41pF
+H8             DQ5         DQ           275.48m      1.34nH       0.43pF
+H9             VDDQ        POWER
+J1             NC          NC
+J2             VSS         GND
+J3             RAS#        INPUT2       286.24m      1.73nH       0.41pF
+J7             CK          CLKIN        285.39m      1.70nH       0.40pF
+J8             VSS         GND
+J9             NC          NC
+K1             ODT         INPUT1       386.27m      2.64nH       0.51pF
+K2             VDD         POWER
+K3             CAS#        INPUT2       289.91m      1.85nH       0.40pF
+K7             CK#         CLKIN        286.00m      1.76nH       0.46pF
+K8             VDD         POWER
+K9             CKE         INPUT1       387.91m      2.63nH       0.49pF
+L1             NC          NC
+L2             CS#         INPUT2       336.42m      2.25nH       0.45pF
+L3             WE#         INPUT2       291.30m      1.93nH       0.45pF
+L7             A10         INPUT2       288.14m      1.93nH       0.44pF
+L8             ZQ          NC
+L9             NC          NC
+M1             VSS         GND
+M2             BA0         INPUT1       367.10m      2.38nH       0.50pF
+M3             BA2         INPUT1       382.02m      2.26nH       0.50pF
+M7             NC          NC           380.74m      2.57nH       0.48pF
+M8             VREFCA      POWER
+M9             VSS         GND
+N1             VDD         POWER
+N2             A3          INPUT1       401.42m      2.29nH       0.57pF
+N3             A0          INPUT2       416.81m      2.63nH       0.52pF
+N7             A12         INPUT2       416.81m      2.90nH       0.52pF
+N8             BA1         INPUT1       393.02m      2.82nH       0.54pF
+N9             VDD         POWER
+P1             VSS         GND
+P2             A5          INPUT1       430.95m      2.96nH       0.58pF
+P3             A2          INPUT1       440.61m      3.02nH       0.56pF
+P7             A1          INPUT1       453.49m      3.20nH       0.58pF
+P8             A4          INPUT1       431.32m      3.16nH       0.59pF
+P9             VSS         GND
+R1             VDD         POWER
+R2             A7          INPUT1       469.49m      3.40nH       0.62pF
+R3             A9          INPUT1       469.04m      3.24nH       0.61pF
+R7             A11         INPUT1       488.56m      3.35nH       0.63pF
+R8             A6          INPUT1       466.30m      3.35nH       0.65pF
+R9             VDD         POWER
+T1             VSS         GND
+T2             RST#        RESET        492.95m      3.54nH       0.66pF
+T3             A13         INPUT1       435.72m      3.10nH       0.59pF
+T7             A14         INPUT1       449.12m      2.74nH       0.63pF
+T8             A8          INPUT1       506.70m      3.46nH       0.66pF
+T9             VSS         GND

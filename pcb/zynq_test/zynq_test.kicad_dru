@@ -1,0 +1,7 @@
+(version 1)
+(rule SE_40
+	(layer inner)
+	(condition "A.hasNetclass('SE_40_OHM')")
+	(constraint track_width (opt 4.4500mil))
+)
+

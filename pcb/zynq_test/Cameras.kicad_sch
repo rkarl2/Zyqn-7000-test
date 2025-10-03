@@ -6123,7 +6123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-1734248-5:TE_1-1734248-5"
+		(property "Footprint" ""
 			(at 267.716 37.084 0)
 			(effects
 				(font
@@ -8287,7 +8287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-1734248-5:TE_1-1734248-5"
+		(property "Footprint" ""
 			(at 133.096 38.354 0)
 			(effects
 				(font
@@ -10378,7 +10378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1-1734248-5:TE_1-1734248-5"
+		(property "Footprint" ""
 			(at 133.096 125.984 0)
 			(effects
 				(font

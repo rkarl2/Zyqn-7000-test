@@ -17533,7 +17533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA:Xilinx_CLG400"
+		(property "Footprint" "Zynq:Zynq_Z7020-2CLG400I_W_Delay"
 			(at 34.29 -16.51 0)
 			(effects
 				(font
@@ -19210,7 +19210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA:Xilinx_CLG400"
+		(property "Footprint" "Zynq:Zynq_Z7020-2CLG400I_W_Delay"
 			(at 157.48 13.97 0)
 			(effects
 				(font

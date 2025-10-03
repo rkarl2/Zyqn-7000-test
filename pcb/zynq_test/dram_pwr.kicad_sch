@@ -10742,7 +10742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dram:BGA96C80P9X16_1400X800X120"
+		(property "Footprint" "dram:BGA96C80P9X16_1400X800X120_pinDelays"
 			(at 111.76 83.82 0)
 			(effects
 				(font
@@ -11093,7 +11093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "dram:BGA96C80P9X16_1400X800X120"
+		(property "Footprint" "dram:BGA96C80P9X16_1400X800X120_pinDelays"
 			(at 113.03 163.83 0)
 			(effects
 				(font
