@@ -46,7 +46,7 @@ df = pd.DataFrame(netLengths)
 for l in layersNames:  df[l] = df[l].apply(lambda x: x/1_000_000)
 for l in layersNames:  df[l+"_ps"] = df[l]*inneLayer_ps_mm if "In" in l else df[l]*outerLayer_ps_mm
 
-footprints = [f for f in board.get_footprints() if f.reference_field.text.value in ["U402"]]
+footprints = [f for f in board.get_footprints() if f.reference_field.text.value in ["U401"]]
 
 df["U402_ps"] = [0.0]*len(df)
 for p in footprints[0].definition.pads: 
@@ -106,7 +106,7 @@ df["Top_total_mm"] = df['total_routed_length_mm']+df["Top_add_mm"]
 df["inner_add_mm"] = df['Goal_ps']/inneLayer_ps_mm*-1
 df["inner_total_mm"] = df['total_routed_length_mm']+df["inner_add_mm"]
 
-addr_only = df['Net'].str.contains("DDR_L2")
+addr_only = df['Net'].str.contains("DDR_L1")
 print(df.sort_values(by='Net')[["Net","total_ps","Goal_ps","Top_add_mm","Top_total_mm",
                                 "inner_add_mm","inner_total_mm"]])
-# df.sort_values(by='Net').to_csv("ddrU402.csv")
+# df.sort_values(by='Net').to_csv("ddrU401.csv")
