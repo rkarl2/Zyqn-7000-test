@@ -2970,7 +2970,7 @@
 		)
 		(uuid "fe0c0235-6bd3-4300-9f92-ffb4358764e0")
 	)
-	(label "SD0.DAT2"
+	(label "SD0.DATA2_SD"
 		(at 121.92 127 0)
 		(effects
 			(font
@@ -3020,7 +3020,7 @@
 		)
 		(uuid "3255bf90-6f2b-4c4e-89fe-028a58b44938")
 	)
-	(label "SD0.CMD"
+	(label "SD0.CMD_SD"
 		(at 121.92 132.08 0)
 		(effects
 			(font
@@ -3060,7 +3060,7 @@
 		)
 		(uuid "8f6d3af8-938f-4229-aa3c-65071cdf66da")
 	)
-	(label "SD0.CLK"
+	(label "SD0.CLK_SD"
 		(at 121.92 134.62 0)
 		(effects
 			(font
@@ -3080,7 +3080,7 @@
 		)
 		(uuid "a8a4a938-d16a-4d10-beb7-cfa1ced508a7")
 	)
-	(label "SD0.DAT3"
+	(label "SD0.DATA3_SD"
 		(at 121.92 129.54 0)
 		(effects
 			(font
@@ -3100,7 +3100,7 @@
 		)
 		(uuid "c1ae30c6-758f-4176-9862-e48950ad8711")
 	)
-	(label "SD0.DAT0"
+	(label "SD0.DATA0_SD"
 		(at 121.92 121.92 0)
 		(effects
 			(font
@@ -3120,7 +3120,7 @@
 		)
 		(uuid "d712051c-67c8-4f9c-a087-d8a421ff298f")
 	)
-	(label "SD0.DAT1"
+	(label "SD0.DATA1_SD"
 		(at 121.92 124.46 0)
 		(effects
 			(font
@@ -3343,7 +3343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 84.836 40.894 90)
 			(effects
 				(font
@@ -3480,7 +3480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 75.946 40.894 90)
 			(effects
 				(font
@@ -4636,7 +4636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm"
 			(at 115.57 45.72 0)
 			(effects
 				(font

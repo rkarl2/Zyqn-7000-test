@@ -5,3 +5,11 @@
 	(constraint track_width (opt 4.4500mil))
 )
 
+#(rule test
+#	(layer outer)
+#	(constraint clearance (min 0.32mm))
+#	(condition "A.Type=='Track' && B.Type == 'Track' &&!AB.isCoupledDiffPair() && A.Layer == 'F.Cu'")
+#	(severity error)
+#)
+#
+#

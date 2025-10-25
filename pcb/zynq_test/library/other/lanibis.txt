@@ -1,0 +1,61 @@
+[Component]     lan8830
+|
+[Manufacturer]  Microchip Technology
+|
+[Package]
+|                               typ             min             max
+R_pkg                           0.151Ohm        0.088Ohm        0.214Ohm
+L_pkg                           1.700nH         1.020nH         2.380nH
+C_pkg                           0.361pF         0.201pF         0.520pF
+|
+|               Note:   48 pin MLF package
+|
+[Pin]    signal_name    model_name          R_pin       L_pin       C_pin
+1        VDDAH          POWER               NA          NA          NA
+2        TXRXP_A        NC                  0.175       2.03nH      0.25pF
+3        TXRXM_A        NC                  0.166       1.74nH      0.25pF
+4        VDDAL          POWER               NA          NA          NA
+5        TXRXP_B        NC                  0.153       1.50nH      0.23pF
+6        TXRXM_B        NC                  0.153       1.72nH      0.20pF
+7        TXRXP_C        NC                  0.134       1.71nH      0.20pF
+8        TXRXM_C        NC                  0.148       1.54nH      0.22pF
+9        VDDAL          POWER               NA          NA          NA
+10       TXRXP_D        NC                  0.167       1.63nH      0.25pF
+11       TXRXM_D        NC                  0.163       2.04nH      0.24pF
+12       VDDAH          POWER               NA          NA          NA
+13       LED5           diosl10p_pupd_3vo   0.214       2.38nH      0.31pF
+14       LED4           diosl10p_pupd_3vo   0.191       2.33nH      0.29pF
+15       LED3           diosl10p_pupd_3vo   0.172       2.18nH      0.26pF
+16       LED2           diosl10p_pupd_3vo   0.158       2.03nH      0.25pF
+17       VDDIO          POWER               NA          NA          NA
+18       LED1           diosl10p_pupd_3vo   0.144       1.87nH      0.23pF
+19       TXD0           diosl_rgmiilv_3vo   0.144       1.86nH      0.23pF
+20       TXD1           diosl_rgmiilv_3vo   0.149       1.90nH      0.23pF
+21       TXD2           diosl_rgmiilv_3vo   0.162       1.95nH      0.25pF
+22       TXD3           diosl_rgmiilv_3vo   0.195       1.73nH      0.29pF
+23       VDD            POWER               NA          NA          NA
+24       VDDIO          POWER               NA          NA          NA
+25       TXC            diosl_rgmiilv_3vo   0.196       2.09nH      0.27pF
+26       TX_CTL         diosl_rgmiilv_3vo   0.190       1.77nH      0.28pF
+27       VDD            POWER               NA          NA          NA
+28       VDDIO          POWER               NA          NA          NA
+29       RXD3           diosl_rgmiilv_3vo   0.146       1.73nH      0.23pF
+30       RXD2           diosl_rgmiilv_3vo   0.143       1.61nH      0.22pF
+31       VDD            POWER               NA          NA          NA
+32       RXD1           diosl_rgmiilv_3vo   0.142       1.72nH      0.22pF
+33       RXD0           diosl_rgmiilv_3vo   0.151       1.81nH      0.23pF
+34       RX_CTL         diosl_rgmiilv_3vo   0.175       1.76nH      0.26pF
+35       VDDIO          POWER               NA          NA          NA
+36       RXC            diosl_rgmiilv_3vo   0.213       1.95nH      0.31pF
+37       MDC            diosl10p_pupd_3vo   0.181       2.30nH      0.26pF
+38       MDIO           diosl10p_pupd_3vo   0.167       2.07nH      0.25pF
+39       INT_N          diosl10p_pupd_3vo   0.167       1.70nH      0.25pF
+40       VDD            POWER               NA          NA          NA
+41       VDDIO          POWER               NA          NA          NA
+42       CLK125_NDO     diosl10p_pupd_3vo   0.155       1.64nH      0.23pF
+43       RESET_N        diosl10p_pupd_3vo   0.156       1.70nH      0.23pF
+44       LDO_O          apada_5             0.161       1.69nH      0.24pF
+45       XO             apada_5             0.169       1.81nH      0.25pF
+46       XI             apada_5             0.187       1.78nH      0.27pF
+47       VDDAL_PLL      POWER               NA          NA          NA
+48       ISET           NC                  0.186       2.26nH      0.26pF

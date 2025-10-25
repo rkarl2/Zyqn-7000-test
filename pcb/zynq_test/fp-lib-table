@@ -4,4 +4,5 @@
   (lib (name "Camera")(type "KiCad")(uri "${KIPRJMOD}/library/camera")(options "")(descr ""))
   (lib (name "dram")(type "KiCad")(uri "${KIPRJMOD}/library/DDR3")(options "")(descr ""))
   (lib (name "ethernet")(type "KiCad")(uri "${KIPRJMOD}/library/LAN8830T_V_PSA/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/library/other/other.pretty")(options "")(descr ""))
 )

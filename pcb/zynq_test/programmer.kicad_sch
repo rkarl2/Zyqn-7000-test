@@ -6899,7 +6899,7 @@
 		(dnp no)
 		(uuid "16049a7f-3e40-4301-872f-baaf0af5ece9")
 		(property "Reference" "R719"
-			(at 196.342 122.682 90)
+			(at 205.486 122.682 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6907,7 +6907,7 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 204.216 122.936 90)
+			(at 197.104 122.428 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6981,7 +6981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 63.5 165.1 0)
 			(effects
 				(font
@@ -7183,7 +7183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 97.79 69.85 0)
 			(effects
 				(font
@@ -7458,7 +7458,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 195.326 138.684 90)
 			(effects
 				(font
@@ -7527,7 +7527,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm"
 			(at 233.68 80.01 0)
 			(effects
 				(font
@@ -7686,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.25 52.07 0)
 			(effects
 				(font
@@ -7955,7 +7955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 201.676 85.344 90)
 			(effects
 				(font
@@ -8022,7 +8022,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 97.79 72.39 0)
 			(effects
 				(font
@@ -8306,7 +8306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.25 49.53 0)
 			(effects
 				(font
@@ -8374,7 +8374,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "other:DSC1001"
 			(at 220.98 143.51 0)
 			(effects
 				(font
@@ -8516,7 +8516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 53.594 36.576 90)
 			(effects
 				(font
@@ -8851,7 +8851,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 63.5 160.02 0)
 			(effects
 				(font
@@ -9324,7 +9324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 61.214 36.576 90)
 			(effects
 				(font
@@ -9456,7 +9456,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 184.404 84.074 90)
 			(effects
 				(font
@@ -9575,19 +9575,21 @@
 		(fields_autoplaced yes)
 		(uuid "a41b03b1-d0e3-41a9-89a4-e7184b2b4be8")
 		(property "Reference" "U704"
-			(at 234.95 109.1498 0)
+			(at 231.14 115.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "93LCxxB"
-			(at 234.95 111.6898 0)
+			(at 231.14 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -9942,7 +9944,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.25 54.61 0)
 			(effects
 				(font
@@ -10340,7 +10342,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 113.03 165.1 0)
 			(effects
 				(font
@@ -10419,7 +10421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 63.5 162.56 0)
 			(effects
 				(font
@@ -10820,7 +10822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.25 46.99 0)
 			(effects
 				(font
@@ -10889,7 +10891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm"
 			(at 81.28 177.8 0)
 			(effects
 				(font
@@ -11178,7 +11180,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 63.5 167.64 0)
 			(effects
 				(font
@@ -11311,7 +11313,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 95.25 59.69 0)
 			(effects
 				(font

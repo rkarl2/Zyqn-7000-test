@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.4,
-          "width": 0.46
+          "height": 0.64,
+          "width": 0.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -190,6 +190,7 @@
         0.0,
         0.1,
         0.11303,
+        0.1184,
         0.13,
         0.15,
         0.1844,
@@ -241,7 +242,18 @@
       "mfg": "",
       "mpn": ""
     },
-    "layer_pairs": [],
+    "layer_pairs": [
+      {
+        "bottomLayer": 2,
+        "enabled": true,
+        "topLayer": 0
+      },
+      {
+        "bottomLayer": 8,
+        "enabled": true,
+        "topLayer": 12
+      }
+    ],
     "layer_presets": [],
     "viewports": []
   },
@@ -501,67 +513,83 @@
       {
         "name": "CAM.RX0",
         "pcb_color": "rgb(0, 132, 0)",
-        "priority": 7,
+        "priority": 10,
         "schematic_color": "rgb(0, 132, 0)"
       },
       {
         "name": "CAM.RX1",
         "pcb_color": "rgb(0, 194, 0)",
-        "priority": 5,
+        "priority": 8,
         "schematic_color": "rgb(0, 194, 0)"
       },
       {
         "name": "CAM.TX2",
         "pcb_color": "rgb(0, 255, 0)",
-        "priority": 6,
+        "priority": 9,
         "schematic_color": "rgb(0, 255, 0)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_ADD",
         "pcb_color": "rgb(14, 0, 255)",
-        "priority": 10,
+        "priority": 13,
         "schematic_color": "rgb(14, 0, 255)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_CTR",
         "pcb_color": "rgb(13, 179, 255)",
-        "priority": 9,
+        "priority": 12,
         "schematic_color": "rgb(13, 179, 255)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_L0",
         "pcb_color": "rgb(159, 193, 255)",
-        "priority": 11,
+        "priority": 14,
         "schematic_color": "rgb(159, 193, 255)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_L1",
         "pcb_color": "rgb(62, 132, 170)",
-        "priority": 12,
+        "priority": 15,
         "schematic_color": "rgb(62, 132, 170)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_L2",
         "pcb_color": "rgb(0, 194, 194)",
-        "priority": 13,
+        "priority": 16,
         "schematic_color": "rgb(0, 194, 194)"
       },
       {
         "clearance": 0.1,
         "name": "DDR_L3",
         "pcb_color": "rgb(0, 158, 255)",
-        "priority": 14,
+        "priority": 17,
         "schematic_color": "rgb(0, 158, 255)"
+      },
+      {
+        "diff_pair_gap": 0.3,
+        "diff_pair_width": 0.1105,
+        "name": "DP_100_OHM",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
         "diff_pair_gap": 0.15,
         "diff_pair_width": 0.1488,
         "name": "DP_80_OHM",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "diff_pair_gap": 0.3,
+        "diff_pair_width": 0.1359,
+        "name": "DP_90_OHM",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
@@ -569,81 +597,88 @@
       {
         "name": "ETH0",
         "pcb_color": "rgb(194, 194, 0)",
-        "priority": 21,
+        "priority": 24,
         "schematic_color": "rgb(194, 194, 0)"
       },
       {
         "name": "GPIO0",
         "pcb_color": "rgb(255, 184, 237)",
-        "priority": 4,
+        "priority": 7,
         "schematic_color": "rgb(255, 184, 237)"
       },
       {
         "name": "GPIO1",
         "pcb_color": "rgb(218, 143, 255)",
-        "priority": 3,
+        "priority": 6,
         "schematic_color": "rgb(218, 143, 255)"
       },
       {
         "name": "GPIO2",
         "pcb_color": "rgb(237, 49, 145)",
-        "priority": 2,
+        "priority": 5,
         "schematic_color": "rgb(237, 49, 145)"
       },
       {
         "name": "HDMI",
         "pcb_color": "rgb(204, 102, 0)",
-        "priority": 15,
+        "priority": 18,
         "schematic_color": "rgb(204, 102, 0)"
       },
       {
         "name": "HDMI.RX",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 8,
+        "priority": 11,
         "schematic_color": "rgb(255, 153, 0)"
       },
       {
         "name": "JTAG",
         "pcb_color": "rgb(221, 133, 0)",
-        "priority": 16,
+        "priority": 19,
         "schematic_color": "rgb(221, 133, 0)"
       },
       {
         "name": "MIO",
         "pcb_color": "rgb(202, 79, 255)",
-        "priority": 18,
+        "priority": 21,
         "schematic_color": "rgb(202, 79, 255)"
       },
       {
         "name": "QSPI0",
         "pcb_color": "rgb(194, 0, 0)",
-        "priority": 19,
+        "priority": 22,
         "schematic_color": "rgb(194, 0, 0)"
       },
       {
         "name": "SD0",
         "pcb_color": "rgb(255, 0, 0)",
-        "priority": 20,
+        "priority": 23,
         "schematic_color": "rgb(255, 0, 0)"
       },
       {
         "name": "SE_40_OHM",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1844
       },
       {
+        "name": "SE_50_OHM",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1184
+      },
+      {
         "name": "UART0",
         "pcb_color": "rgb(178, 0, 255)",
-        "priority": 17,
+        "priority": 20,
         "schematic_color": "rgb(178, 0, 255)"
       },
       {
         "line_style": 0,
         "name": "USB0",
         "pcb_color": "rgb(0, 0, 255)",
-        "priority": 22,
+        "priority": 25,
         "schematic_color": "rgb(0, 0, 255)"
       }
     ],
@@ -772,6 +807,42 @@
       {
         "netclass": "SE_40_OHM",
         "pattern": "*DDR*ADD*"
+      },
+      {
+        "netclass": "SE_50_OHM",
+        "pattern": "*USB0*"
+      },
+      {
+        "netclass": "SE_50_OHM",
+        "pattern": "*ETH0*"
+      },
+      {
+        "netclass": "SE_50_OHM",
+        "pattern": "*SD0*"
+      },
+      {
+        "netclass": "DP_100_OHM",
+        "pattern": "*HDMI*"
+      },
+      {
+        "netclass": "SE_50_OHM",
+        "pattern": "*QSPI0*"
+      },
+      {
+        "netclass": "DP_90_OHM",
+        "pattern": "*USB_OTG.*"
+      },
+      {
+        "netclass": "DP_100_OHM",
+        "pattern": "/ETHERNET/ETH_TX*"
+      },
+      {
+        "netclass": "DP_100_OHM",
+        "pattern": "/Cameras/*"
+      },
+      {
+        "netclass": "SE_50_OHM",
+        "pattern": "/Cameras/*"
       }
     ]
   },

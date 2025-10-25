@@ -107,6 +107,6 @@ df["inner_add_mm"] = df['Goal_ps']/inneLayer_ps_mm*-1
 df["inner_total_mm"] = df['total_routed_length_mm']+df["inner_add_mm"]
 
 addr_only = df['Net'].str.contains("DDR_L1")
-print(df.sort_values(by='Net')[["Net","total_ps","Goal_ps","Top_add_mm","Top_total_mm",
-                                "inner_add_mm","inner_total_mm"]])
+# print(df[addr_only].sort_values(by='Net')[[l for l in layersNames]+['Net']])
+print(df[addr_only].sort_values(by='Net')[['Net','Goal_ps','total_routed_length_mm','Top_add_mm']])
 # df.sort_values(by='Net').to_csv("ddrU401.csv")
