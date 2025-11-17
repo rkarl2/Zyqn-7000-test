@@ -852,10 +852,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "zynqGerbers/",
+      "plot": "pdf/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "zynq_test.step",
       "svg": "",
       "vrml": ""
     },
@@ -1085,7 +1085,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "kicad-embed://backgroundTemplate.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "pdf",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

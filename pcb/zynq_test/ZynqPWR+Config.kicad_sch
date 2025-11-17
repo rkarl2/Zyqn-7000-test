@@ -9017,8 +9017,8 @@
 		(members "CLK" "TDI" "TDO" "TMS")
 	)
 	(rectangle
-		(start 135.89 81.28)
-		(end -11.43 163.83)
+		(start 135.89 80.01)
+		(end 281.94 163.83)
 		(stroke
 			(width 0)
 			(type default)
