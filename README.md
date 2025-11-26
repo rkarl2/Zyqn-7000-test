@@ -11,3 +11,10 @@ Features:
 * 1x CSI-2 TX
 * 1 Gbit Flash
 * SD Card
+
+## Schematics
+
+![Top View](./pcb/zynq_test/pdf/Top.png)
+![Bottom View](./pcb/zynq_test/pdf/bottom.png)
+
+Full Schmatics [here](./pcb/zynq_test/pdf/Zynqinator.pdf)
