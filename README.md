@@ -14,7 +14,7 @@ Features:
 
 ## Schematics
 
-![Top View](./pcb/zynq_test/pdf/Top.png)
+![Top View](./pcb/zynq_test/pdf/top.png)
 ![Bottom View](./pcb/zynq_test/pdf/bottom.png)
 
 Full Schmatics [here](./pcb/zynq_test/pdf/Zynqinator.pdf)
