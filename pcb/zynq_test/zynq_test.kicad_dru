@@ -7,8 +7,8 @@
 
 #(rule DDR2_track_clearance
 #	(layer outer)
-#	(constraint clearance (min 0.32mm))
-#	(condition "A.Type=='Track' && B.Type == 'Track' &&!AB.isCoupledDiffPair() && A.Layer == 'F.Cu'")
+#	(constraint clearance (min 0.30mm))
+#	(condition "A.Type=='Track' && B.Type == 'Track' &&!AB.isCoupledDiffPair()")
 #	(severity error)
 #)
 

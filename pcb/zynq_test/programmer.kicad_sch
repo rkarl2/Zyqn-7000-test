@@ -4107,17 +4107,6 @@
 		)
 		(uuid "67277dc1-aa3e-4816-a253-9057223c64da")
 	)
-	(text "6 is for PWR\nwe don't want\npower"
-		(exclude_from_sim no)
-		(at 102.616 176.784 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "80230a50-6e8f-49f5-b573-49711827b004")
-	)
 	(text "Place Close for swapping \nRX and TX"
 		(exclude_from_sim no)
 		(at 84.074 76.454 0)
@@ -4522,10 +4511,6 @@
 		(uuid "71169755-3309-403e-b37a-cd513f808c8d")
 	)
 	(no_connect
-		(at 107.95 172.72)
-		(uuid "73946b89-6711-41d0-b6e3-5af56bcc7585")
-	)
-	(no_connect
 		(at 114.3 92.71)
 		(uuid "82408daa-6e00-4bcf-b989-76ff991549b4")
 	)
@@ -4841,7 +4826,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 172.72) (xy 99.06 170.18)
+			(xy 96.52 172.72) (xy 96.52 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4868,6 +4853,16 @@
 			(type default)
 		)
 		(uuid "13d07895-6aa3-49d2-aa80-0f6e4413624a")
+	)
+	(wire
+		(pts
+			(xy 107.95 175.26) (xy 105.41 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15400772-42d6-4b1c-a160-76e04d5d01c7")
 	)
 	(wire
 		(pts
@@ -5161,7 +5156,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 170.18) (xy 107.95 170.18)
+			(xy 96.52 170.18) (xy 107.95 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5608,6 +5603,16 @@
 			(type default)
 		)
 		(uuid "71c19ce4-ca2d-4e0b-992b-42f63526a243")
+	)
+	(wire
+		(pts
+			(xy 107.95 172.72) (xy 107.95 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d33299-0371-417e-9161-34fc8a35a1e2")
 	)
 	(wire
 		(pts
@@ -6678,6 +6683,16 @@
 			(type default)
 		)
 		(uuid "f2755f53-961f-4414-bbde-34a39bccde7c")
+	)
+	(wire
+		(pts
+			(xy 105.41 175.26) (xy 105.41 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3aef103-9a4e-423a-acba-601dd586dc30")
 	)
 	(wire
 		(pts
@@ -7809,6 +7824,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7902,6 +7918,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "RK73B1ETTP202J"
+			(at 200.66 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C159880"
+			(at 200.66 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dcb7091a-b569-499f-8e72-05c35579af63")
 		)
@@ -7962,6 +7996,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 63.5 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "RK73H1ETTP22R0F"
+			(at 63.5 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C159964"
+			(at 63.5 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8030,6 +8082,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 170.18 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 170.18 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
 			(at 170.18 29.21 0)
 			(effects
 				(font
@@ -8171,6 +8241,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 97.79 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 97.79 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "53cef932-dd0e-4012-a857-f48b4bdb63f4")
 		)
@@ -8232,6 +8320,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 121.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 121.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
 			(at 121.92 29.21 0)
 			(effects
 				(font
@@ -8309,6 +8415,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 151.13 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 151.13 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0b309e7-25b8-4212-a9ac-5c290daf4c51")
 		)
@@ -8370,6 +8494,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 203.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 203.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
 			(at 203.2 53.34 0)
 			(effects
 				(font
@@ -8446,6 +8588,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 195.58 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 195.58 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "00374e2a-6d35-4d5c-a230-fce97caecc67")
 		)
@@ -8507,6 +8667,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 233.68 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ESD8104MUTAG"
+			(at 233.68 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C94394"
 			(at 233.68 80.01 0)
 			(effects
 				(font
@@ -8607,6 +8785,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "742792023"
+			(at 224.79 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5120901"
+			(at 224.79 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c2d3e196-4795-4096-adde-9a0066ab2029")
 		)
@@ -8667,6 +8863,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 95.25 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 95.25 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 95.25 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8873,6 +9087,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 179.07 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 179.07 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29f8936a-6654-410f-ac8f-9a1f73900117")
 		)
@@ -8935,6 +9167,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "HPCR0402F12K0K9"
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C363271"
 			(at 200.66 85.09 0)
 			(effects
 				(font
@@ -9010,6 +9260,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 97.79 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 97.79 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f972fa90-6704-4e21-b046-47d0612ad94a")
 		)
@@ -9073,6 +9341,24 @@
 			)
 		)
 		(property "Description" "USB Micro Type B connector"
+			(at 257.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "10118193-0001LF"
+			(at 257.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C132562"
 			(at 257.81 72.39 0)
 			(effects
 				(font
@@ -9162,6 +9448,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 113.03 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 113.03 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "44f9ffae-bcde-4897-9cb0-0fc8a567ceda")
 		)
@@ -9172,6 +9476,71 @@
 			(project ""
 				(path "/0637578d-4ce5-4d31-b973-2de977269ea5/cbe65b94-50f2-402b-8037-053235586035"
 					(reference "C702")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 105.41 173.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61b9dbd4-9930-4437-b779-42cf8d63a427")
+		(property "Reference" "#PWR0727"
+			(at 105.41 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 100.838 172.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 105.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f8c58ebb-6cb8-4597-8b92-2d7030f5162d")
+		)
+		(instances
+			(project "zynq_test"
+				(path "/0637578d-4ce5-4d31-b973-2de977269ea5/cbe65b94-50f2-402b-8037-053235586035"
+					(reference "#PWR0727")
 					(unit 1)
 				)
 			)
@@ -9294,6 +9663,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 95.25 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 95.25 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "db2225fc-7571-471e-94ee-3fd4e5795472")
 		)
@@ -9354,6 +9741,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "DSC1001CI2-012.0000"
+			(at 220.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C611391"
 			(at 220.98 143.51 0)
 			(effects
 				(font
@@ -9437,6 +9842,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 212.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 212.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1ae1ed8-9f26-4081-8c8f-35eab5776037")
 		)
@@ -9504,6 +9927,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 54.61 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
+			(at 54.61 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "866efb6e-946a-43a9-9a15-181da6589510")
 		)
@@ -9563,6 +10004,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 209.55 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 209.55 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
 			(at 209.55 107.95 0)
 			(effects
 				(font
@@ -9699,6 +10158,24 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 224.79 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "742792023"
+			(at 224.79 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5120901"
+			(at 224.79 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10038,6 +10515,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "RK73H1ETTP22R0F"
+			(at 63.5 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C159964"
+			(at 63.5 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a89a719-465d-4b62-9c3c-01f9669c4f5e")
 		)
@@ -10097,6 +10592,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
 			(at 200.66 107.95 0)
 			(effects
 				(font
@@ -10175,6 +10688,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 240.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 240.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6252cf7f-ef32-4da8-913e-90bf0c2d7696")
 		)
@@ -10215,6 +10746,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -10310,6 +10842,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 102.87 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 102.87 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68d87c9b-d81c-41d5-b66f-9fc683a3dc3b")
 		)
@@ -10327,7 +10877,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 172.72 0)
+		(at 96.52 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10335,7 +10885,7 @@
 		(dnp no)
 		(uuid "94c60e22-f16a-439f-a693-3367f2da8763")
 		(property "Reference" "#PWR0703"
-			(at 99.06 179.07 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10344,15 +10894,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.012 176.276 0)
+			(at 93.472 176.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 172.72 0)
+			(at 96.52 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10361,7 +10912,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 172.72 0)
+			(at 96.52 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10370,7 +10921,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 172.72 0)
+			(at 96.52 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10444,6 +10995,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 130.81 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 130.81 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69ddc570-2407-403b-8101-8a0099457440")
 		)
@@ -10503,6 +11072,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
 			(at 62.23 36.83 0)
 			(effects
 				(font
@@ -10636,6 +11223,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF1001X"
+			(at 184.15 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242161"
+			(at 184.15 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10779,6 +11384,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "93LC46B/SN"
+			(at 222.25 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1348804"
+			(at 222.25 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "a0dbd9ec-0bad-4f2c-a995-c37cc43e6721")
 		)
@@ -10866,6 +11489,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 161.29 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 161.29 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53ca21ad-962c-4b29-a015-6c6c9c062a73")
 		)
@@ -10906,6 +11547,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -11001,6 +11643,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "SN74AUC1G07DBVR"
+			(at 57.15 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C163714"
+			(at 57.15 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0de119f3-252b-41ce-8c3f-bc1ac031da15")
 		)
@@ -11050,6 +11710,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -11209,6 +11870,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 95.25 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 95.25 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cbbf6b1e-b649-48b8-9099-b7b9e0dc2cc7")
 		)
@@ -11271,6 +11950,24 @@
 			)
 		)
 		(property "Description" "Hi Speed Double Channel USB UART/FIFO, QFN-64"
+			(at 144.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "FT2232HQ-TRAY"
+			(at 144.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C3025148"
 			(at 144.78 95.25 0)
 			(effects
 				(font
@@ -11537,6 +12234,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bea3b55d-a387-4280-abed-ebe8aba7f37d")
 		)
@@ -11558,7 +12273,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cac20169-f97c-49a5-a86d-696c765b4997")
@@ -11599,6 +12314,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" ""
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
 			(at 113.03 165.1 0)
 			(effects
 				(font
@@ -11679,6 +12412,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 63.5 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "RK73H1ETTP22R0F"
+			(at 63.5 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C159964"
+			(at 63.5 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,6 +12837,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 203.2 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 203.2 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee9f4d0e-f8b7-4e5f-86fe-210de27945b9")
 		)
@@ -12219,6 +12988,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 95.25 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 95.25 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d1cb119-d911-47c4-9d6c-68b3f7374213")
 		)
@@ -12280,6 +13067,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 81.28 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ESD8104MUTAG"
+			(at 81.28 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C94394"
 			(at 81.28 177.8 0)
 			(effects
 				(font
@@ -12444,6 +13249,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce915b35-4f6d-4354-971d-35b35ae786f0")
 		)
@@ -12484,6 +13307,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -12570,6 +13394,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 63.5 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "RK73H1ETTP22R0F"
+			(at 63.5 167.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C159964"
+			(at 63.5 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12703,6 +13545,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 44.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 44.45 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 44.45 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -988,6 +988,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" ""
+			(at 30.48 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
+			(at 30.48 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05a56ebb-3311-4d1a-9c21-35f07b82cb91")
 		)
@@ -1047,6 +1065,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 52.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" ""
+			(at 52.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
 			(at 52.07 33.02 0)
 			(effects
 				(font
@@ -1122,6 +1158,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" ""
+			(at 36.83 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
+			(at 36.83 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41c1f6ba-1293-43a5-8ba9-6505368a942f")
 		)
@@ -1181,6 +1235,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 44.45 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" ""
+			(at 44.45 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
 			(at 44.45 33.02 0)
 			(effects
 				(font

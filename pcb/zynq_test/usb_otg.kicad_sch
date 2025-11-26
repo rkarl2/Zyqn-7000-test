@@ -5319,6 +5319,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5405,6 +5406,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 68.58 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 68.58 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 68.58 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5546,6 +5565,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GE0R00X"
+			(at 69.85 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C242160"
+			(at 69.85 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "501b9ff4-9ce6-4dee-abfc-9cf025522423")
 		)
@@ -5607,6 +5644,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ESD8104MUTAG"
+			(at 220.98 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C94394"
 			(at 220.98 111.76 0)
 			(effects
 				(font
@@ -5839,6 +5894,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 205.74 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 205.74 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "869003d2-3e9c-4fce-a098-1c33adb070cb")
 		)
@@ -5879,6 +5952,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6039,6 +6113,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "AP22816AKBWT-7"
+			(at 189.23 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5157836"
+			(at 189.23 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58ca6ff8-4397-455b-aed9-6ff62162fa06")
 		)
@@ -6176,6 +6268,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 217.17 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL32A107MPVNNNE"
+			(at 217.17 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23742"
 			(at 217.17 91.44 0)
 			(effects
 				(font
@@ -6453,6 +6563,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 27.94 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 27.94 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ad637c6-efcf-425f-ab77-4504dad20af2")
 		)
@@ -6492,6 +6620,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6587,6 +6716,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 107.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 107.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "84e9f2ce-4cd9-44d3-b06f-a0949c207107")
 		)
@@ -6648,6 +6795,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 133.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 133.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
 			(at 133.35 68.58 0)
 			(effects
 				(font
@@ -6726,6 +6891,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL21B105KBFNNNE"
+			(at 172.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C28323"
+			(at 172.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbf00421-87bc-4cc6-8662-c762c740ba6f")
 		)
@@ -6789,6 +6972,24 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 259.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "292303-7"
+			(at 259.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C591560"
 			(at 259.08 102.87 0)
 			(effects
 				(font
@@ -7046,6 +7247,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7274,6 +7476,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 119.38 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 119.38 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aaaf9561-dac0-4295-a808-86825b04e831")
 		)
@@ -7337,6 +7557,24 @@
 			)
 		)
 		(property "Description" "USB Micro Type B connector"
+			(at 260.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "10118193-0001LF"
+			(at 260.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C132562"
 			(at 260.35 130.81 0)
 			(effects
 				(font
@@ -7474,7 +7712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tusb1210-q1.pdf?ts=1763918786015&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTUSB1210-Q1"
 			(at 109.22 97.79 0)
 			(effects
 				(font
@@ -7484,6 +7722,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 109.22 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "TUSB1210BRHBR"
+			(at 109.22 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C2652869"
 			(at 109.22 97.79 0)
 			(effects
 				(font
@@ -7757,6 +8013,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7852,6 +8109,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 86.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 86.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f1fb05a-0467-4770-a659-2cb8c0954d5e")
 		)
@@ -7911,6 +8186,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 44.45 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "DSC1001CI5-026.0000"
+			(at 44.45 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C611426"
 			(at 44.45 132.08 0)
 			(effects
 				(font
@@ -7986,6 +8279,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 96.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 96.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 96.52 68.58 0)
 			(effects
 				(font

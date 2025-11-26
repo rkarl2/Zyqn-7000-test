@@ -19923,6 +19923,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 363.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 363.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e2ce503-8850-42b2-af46-3080076201c6")
 		)
@@ -20126,6 +20144,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 337.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 337.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "57dc9636-a2b2-43b0-a2dd-e5be4d7b876d")
 		)
@@ -20188,6 +20224,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 332.74 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 332.74 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 332.74 163.83 0)
 			(effects
 				(font
@@ -20266,6 +20320,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "RK73B1ETTP241J"
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C131545"
+			(at 212.09 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "496c3233-150a-413e-be81-a01a49b11e6f")
 		)
@@ -20306,6 +20378,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -20401,6 +20474,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "0201WMF806JTEE"
+			(at 318.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C473438"
+			(at 318.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9740bed-bef0-4fc4-be40-7c7608056f03")
 		)
@@ -20463,6 +20554,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 52.07 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 52.07 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
 			(at 52.07 133.35 0)
 			(effects
 				(font
@@ -20541,6 +20650,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 363.22 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 363.22 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2af8e72-626d-44b6-850e-3809e388a629")
 		)
@@ -20603,6 +20730,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 342.9 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 342.9 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 342.9 163.83 0)
 			(effects
 				(font
@@ -20748,6 +20893,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 361.95 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 361.95 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7df9a16e-9ef3-4a00-9559-ee288a2c3e8c")
 		)
@@ -20808,6 +20971,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MT41K256M16TW-107 IT:P"
+			(at 240.03 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C367428"
 			(at 240.03 41.91 0)
 			(effects
 				(font
@@ -21233,6 +21414,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 389.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 389.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a617155c-5389-4e18-82d1-afb14dcd5465")
 		)
@@ -21359,6 +21558,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 326.39 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 326.39 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 326.39 30.48 0)
 			(effects
 				(font
@@ -21503,6 +21720,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 373.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 373.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18b7839a-c989-45d4-bc15-4c9a41b53ddc")
 		)
@@ -21572,6 +21807,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 344.17 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 344.17 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6ca9b85-ddc7-41ec-88ee-68e73f7d3f82")
 		)
@@ -21633,6 +21886,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 353.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 353.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 353.06 30.48 0)
 			(effects
 				(font
@@ -21711,6 +21982,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 332.74 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 332.74 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3258f2e4-4123-495e-9f52-e83435cf6a87")
 		)
@@ -21773,6 +22062,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 388.62 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 388.62 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 388.62 74.93 0)
 			(effects
 				(font
@@ -21851,6 +22158,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 339.09 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 339.09 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c38f533-7997-4408-a451-a7f53f388655")
 		)
@@ -21913,6 +22238,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 358.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 358.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 358.14 74.93 0)
 			(effects
 				(font
@@ -22123,6 +22466,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 368.3 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 368.3 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab7ef2b1-9979-409b-a573-94f0d940290e")
 		)
@@ -22258,6 +22619,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 379.73 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 379.73 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f9219ffe-27c5-4466-bb9d-7e7f070634fd")
 		)
@@ -22320,6 +22699,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 379.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 379.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 379.73 113.03 0)
 			(effects
 				(font
@@ -22398,6 +22795,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 373.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 373.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4649363f-c6a2-4ff7-b4c6-e0dd8e045bd1")
 		)
@@ -22468,6 +22883,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 369.57 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 369.57 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af77ca11-3492-44f2-b155-8cc4bc6f989e")
 		)
@@ -22529,6 +22962,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 361.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 361.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 361.95 30.48 0)
 			(effects
 				(font
@@ -22673,6 +23124,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 353.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 353.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d912bfe-550d-43f3-933a-3565f3150586")
 		)
@@ -22734,6 +23203,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 52.07 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 52.07 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 52.07 67.31 0)
 			(effects
 				(font
@@ -22812,6 +23299,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6d459c8e-f9cc-4b57-bb6d-aacdea1990ea")
 		)
@@ -22873,6 +23378,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 370.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 370.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 370.84 30.48 0)
 			(effects
 				(font
@@ -22950,6 +23473,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 397.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 397.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f1a9f5f7-b92d-4879-bc49-a0eb8e5a4ec8")
 		)
@@ -23011,6 +23552,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 353.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 353.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 353.06 152.4 0)
 			(effects
 				(font
@@ -23089,6 +23648,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 373.38 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 373.38 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8d650c8-d3b8-4dcf-9341-a37c3db7a145")
 		)
@@ -23158,6 +23735,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 335.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 335.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9a1df16-94e5-4f28-947a-926f29c1fd18")
 		)
@@ -23219,6 +23814,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 342.9 152.4 0)
 			(effects
 				(font
@@ -23297,6 +23910,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 342.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 342.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b84bbd4b-98a3-4a1c-9e1c-73968fa922dd")
 		)
@@ -23367,6 +23998,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "RK73B1ETTP241J"
+			(at 213.36 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C131545"
+			(at 213.36 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "060a56b5-d172-4079-a9a6-6053567ca662")
 		)
@@ -23428,6 +24077,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 31.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "0201WMF806JTEE"
+			(at 31.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C473438"
 			(at 31.75 85.09 0)
 			(effects
 				(font
@@ -23506,6 +24173,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 378.46 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 378.46 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "975f73f5-614e-4916-9daa-c4c40f7dc70a")
 		)
@@ -23576,6 +24261,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 398.78 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 398.78 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b5ff723f-8047-4a52-8bcb-d02b65c1bcf2")
 		)
@@ -23637,6 +24340,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 388.62 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 388.62 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 388.62 30.48 0)
 			(effects
 				(font
@@ -23715,6 +24436,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 359.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 359.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b919946-4368-419a-8b78-2358ec01acc5")
 		)
@@ -23776,6 +24515,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 31.75 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "0201WMF806JTEE"
+			(at 31.75 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C473438"
 			(at 31.75 72.39 0)
 			(effects
 				(font
@@ -23854,6 +24611,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 347.98 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 347.98 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d3d7e4c6-11aa-4d27-9038-f0037d002986")
 		)
@@ -23914,6 +24689,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MT41K256M16TW-107 IT:P"
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C367428"
 			(at 241.3 142.24 0)
 			(effects
 				(font
@@ -24338,6 +25131,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "XC7Z020-2CLG400I"
+			(at 93.98 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C569043"
+			(at 93.98 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25609,6 +26420,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 327.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
+			(at 327.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "155ecc42-0e4e-4ce7-876b-baefaf6675c7")
 		)
@@ -25671,6 +26500,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 328.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF40R2X"
+			(at 328.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C116386"
 			(at 328.93 113.03 0)
 			(effects
 				(font
@@ -25748,6 +26595,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 332.74 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 332.74 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35fa5e73-abf6-4a59-a720-0855b2a76316")
 		)
@@ -25810,6 +26675,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 353.06 163.83 0)
 			(effects
 				(font

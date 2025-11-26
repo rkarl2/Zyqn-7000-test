@@ -14074,6 +14074,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -14141,6 +14142,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -14206,6 +14208,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -14302,6 +14305,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "ERJ2GEJ221X"
+			(at 251.46 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C412979"
+			(at 251.46 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc53aae1-6329-4be1-ab64-97e2cc433b7a")
 		)
@@ -14372,6 +14393,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05B104KO5NNNC"
+			(at 154.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C1525"
+			(at 154.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c88130d-5435-4c43-add9-548a52d5bdd1")
 		)
@@ -14434,6 +14473,24 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 228.6 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MJTP1243"
+			(at 228.6 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5769038"
+			(at 228.6 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14576,6 +14633,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 146.05 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 146.05 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72496f33-9878-44df-a392-e87d4a38a0dd")
 		)
@@ -14637,6 +14712,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL32A107MPVNNNE"
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23742"
 			(at 34.29 80.01 0)
 			(effects
 				(font
@@ -14781,6 +14874,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c8d73fe-b472-49c4-b107-8be450e5641f")
 		)
@@ -14844,6 +14955,24 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 237.49 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MJTP1243"
+			(at 237.49 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5769038"
+			(at 237.49 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14918,6 +15047,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "XC7Z020-2CLG400I"
+			(at 83.82 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C569043"
+			(at 83.82 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -16189,6 +16336,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 123.19 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 123.19 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e862630-e536-4989-8fb7-a60bee397d2c")
 		)
@@ -16325,6 +16490,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 140.97 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 140.97 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9599408e-f5eb-4674-b1de-9e87faafe4ba")
 		)
@@ -16451,6 +16634,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 34.29 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL32A476KPJNNNE"
+			(at 34.29 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C525654"
 			(at 34.29 35.56 0)
 			(effects
 				(font
@@ -16595,6 +16796,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6b07b4c0-8f3f-4ab4-9b13-15682dfbff2e")
 		)
@@ -16635,6 +16854,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -16730,6 +16950,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 224.79 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 224.79 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01b94ae8-28ad-42de-ba85-916d63cfb77a")
 		)
@@ -16792,6 +17030,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 114.3 35.56 0)
 			(effects
 				(font
@@ -16869,6 +17125,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 52.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 52.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7fabaaab-4953-42b0-adbf-345c78ae52e9")
 		)
@@ -16929,6 +17203,24 @@
 		)
 		(property "Description" "Inductor with ferrite core"
 			(at 27.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "742792023"
+			(at 27.94 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C5120901"
+			(at 27.94 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17006,6 +17298,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM32ER60G337ME05L"
+			(at 167.64 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C528969"
+			(at 167.64 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66d5fe62-859d-4977-8d96-d294cb1b109c")
 		)
@@ -17073,6 +17383,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "XC7Z020-2CLG400I"
+			(at 189.23 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C569043"
+			(at 189.23 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18313,6 +18641,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -18378,6 +18707,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -18465,6 +18795,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2RKF1002X"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C191123"
 			(at 228.6 135.89 0)
 			(effects
 				(font
@@ -18673,6 +19021,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 48.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 48.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "034b7da7-c912-4652-b63d-0131095481d8")
 		)
@@ -18734,6 +19100,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 43.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 43.18 101.6 0)
 			(effects
 				(font
@@ -18878,6 +19262,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL32A107MPVNNNE"
+			(at 167.64 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23742"
+			(at 167.64 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "980758ee-7ccf-4769-9b4e-621942bd5841")
 		)
@@ -18947,6 +19349,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 43.18 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 43.18 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "199a99d0-8253-44fe-933e-3ccd14ecda88")
 		)
@@ -19008,6 +19428,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 43.18 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 43.18 80.01 0)
 			(effects
 				(font
@@ -19152,6 +19590,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 149.86 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 149.86 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c90ff30b-be0e-4460-952c-07bd70bbb730")
 		)
@@ -19214,6 +19670,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 132.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 132.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 132.08 35.56 0)
 			(effects
 				(font
@@ -19292,6 +19766,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL32A476KPJNNNE"
+			(at 114.3 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C525654"
+			(at 114.3 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08ac1b62-7395-49a9-8811-8aa735c29f35")
 		)
@@ -19331,6 +19823,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -19426,6 +19919,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 34.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 34.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5be2cded-39d6-48b7-a674-7cb8ce4dc616")
 		)
@@ -19465,6 +19976,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -19597,6 +20109,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -19693,6 +20206,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 158.75 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 158.75 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae925a05-b3b3-4a40-a1cb-e6eec0af4046")
 		)
@@ -19763,6 +20294,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 132.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 132.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "660c9ddd-498f-4dcf-bdbc-7f877da4b18c")
 		)
@@ -19802,6 +20351,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -19889,6 +20439,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 237.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 237.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
 			(at 237.49 115.57 0)
 			(effects
 				(font
@@ -20004,6 +20572,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -20092,6 +20661,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 158.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 158.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 158.75 69.85 0)
 			(effects
 				(font
@@ -20368,6 +20955,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 114.3 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 114.3 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bec3b2b-e6e4-4392-a632-4760771e432d")
 		)
@@ -20429,6 +21034,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 39.37 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 39.37 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
 			(at 39.37 123.19 0)
 			(effects
 				(font
@@ -20516,6 +21139,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "TJ-S2012SW8TGLC7K-A5"
+			(at 251.46 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C192672"
+			(at 251.46 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08e1822d-ae93-4708-8246-5b7b534b4280")
 		)
@@ -20577,6 +21218,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 52.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 52.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 52.07 58.42 0)
 			(effects
 				(font
@@ -20654,6 +21313,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL32A107MPVNNNE"
+			(at 34.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23742"
+			(at 34.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f4011f0-beb7-47b8-acad-fe85092e91d6")
 		)
@@ -20694,6 +21371,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -20789,6 +21467,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 43.18 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 43.18 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4df10b4c-da4b-4e0c-8bb4-1da599555976")
 		)
@@ -20856,6 +21552,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "XC7Z020-2CLG400I"
+			(at 53.34 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C569043"
+			(at 53.34 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22191,6 +22905,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL32A107MPVNNNE"
+			(at 16.51 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23742"
+			(at 16.51 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e87d116e-1b9d-4933-be42-d88431706b67")
 		)
@@ -22230,6 +22962,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -22325,6 +23058,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99df1649-90ea-492e-abec-290a12171e5d")
 		)
@@ -22387,6 +23138,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 251.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "ERJ2GEJ221X"
+			(at 251.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C412979"
 			(at 251.46 115.57 0)
 			(effects
 				(font
@@ -22530,6 +23299,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "CL05A475MP5NRNC"
+			(at 149.86 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C23733"
+			(at 149.86 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84fd97c3-5a79-4e01-aeab-c92a782343eb")
 		)
@@ -22591,6 +23378,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 52.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 52.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -22734,6 +23539,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "GRM155R71A474KE01D"
+			(at 123.19 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C88946"
+			(at 123.19 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "259ce410-9923-4d2a-8ce2-99b688a5e97a")
 		)
@@ -22774,6 +23597,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""

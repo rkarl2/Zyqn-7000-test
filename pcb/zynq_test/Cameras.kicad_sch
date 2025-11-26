@@ -2593,6 +2593,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 130.81 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 130.81 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "89a06b97-d2bd-4a2d-a609-9f36cf8ecf76")
 		)
@@ -2655,6 +2673,24 @@
 			)
 		)
 		(property "Description" "I2C Hub, 4 Channels, Interrupts, TSSOP-20"
+			(at 93.98 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "TCA9544APWR"
+			(at 93.98 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C2674619"
 			(at 93.98 86.36 0)
 			(effects
 				(font
@@ -2981,6 +3017,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 151.13 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 151.13 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc2f8af7-dae4-40fd-a6d8-72f51d338039")
 		)
@@ -3042,6 +3096,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -3253,6 +3325,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82462d74-977f-4b20-8b25-97310e63e7c5")
 		)
@@ -3387,6 +3477,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 113.03 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 113.03 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c88e8f22-512e-40f4-8223-f706edc22e15")
 		)
@@ -3407,7 +3515,7 @@
 		(at 265.43 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "99c61fc7-c5f4-4a00-93e6-58d6a450e915")
@@ -3446,6 +3554,24 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 265.43 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" ""
+			(at 265.43 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" ""
 			(at 265.43 100.33 0)
 			(effects
 				(font
@@ -3541,6 +3667,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "499202ee-9304-4dcc-bd21-705d53288786")
 		)
@@ -3602,6 +3746,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
 			(at 58.42 52.07 0)
 			(effects
 				(font
@@ -3679,6 +3841,24 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c739ce1-5885-4a6f-8dae-7f6145aad8d9")
 		)
@@ -3740,6 +3920,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 161.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" "MR04X4701FTL"
+			(at 161.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part#" "C327817"
 			(at 161.29 49.53 0)
 			(effects
 				(font
